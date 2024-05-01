@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.000
+- AI is a general purpose technology
+
+2
+00:00:04.000 --> 00:00:08.008
+whose applications cut across all aspects of life and work.
+
+3
+00:00:08.008 --> 00:00:13.005
+And the capabilities of AI are growing rapidly.
+
+4
+00:00:13.005 --> 00:00:17.004
+Two conclusions emerge from these basic observations.
+
+5
+00:00:17.004 --> 00:00:22.000
+First, over time, we humans will let AI augment
+
+6
+00:00:22.000 --> 00:00:23.007
+many of our decisions.
+
+7
+00:00:23.007 --> 00:00:26.004
+Second, and more interestingly,
+
+8
+00:00:26.004 --> 00:00:29.001
+we will let AI act autonomously
+
+9
+00:00:29.001 --> 00:00:31.005
+in a growing number of contexts
+
+10
+00:00:31.005 --> 00:00:35.008
+without any real-time input from us.
+
+11
+00:00:35.008 --> 00:00:39.002
+Look at the use of AI to screen job applications
+
+12
+00:00:39.002 --> 00:00:41.001
+submitted online.
+
+13
+00:00:41.001 --> 00:00:46.004
+Most HR departments let AI do the screening autonomously,
+
+14
+00:00:46.004 --> 00:00:50.009
+without any real-time input from recruiters.
+
+15
+00:00:50.009 --> 00:00:55.003
+Look at Google's use of AI to cool its data centers.
+
+16
+00:00:55.003 --> 00:01:00.004
+Initially, Google used AI to recommend desired actions.
+
+17
+00:01:00.004 --> 00:01:06.004
+Today, it lets AI manage the control systems autonomously.
+
+18
+00:01:06.004 --> 00:01:10.002
+Look also at completely AI-driven hedge funds.
+
+19
+00:01:10.002 --> 00:01:13.005
+Fund managers specify the broad parameters,
+
+20
+00:01:13.005 --> 00:01:17.001
+but then let AI make buy-sell decisions
+
+21
+00:01:17.001 --> 00:01:21.002
+without any real-time input.
+
+22
+00:01:21.002 --> 00:01:24.004
+Projecting ahead to the next few years,
+
+23
+00:01:24.004 --> 00:01:29.001
+AI will clearly become capable of making many more decisions
+
+24
+00:01:29.001 --> 00:01:30.009
+better than humans.
+
+25
+00:01:30.009 --> 00:01:32.007
+In many of these contexts,
+
+26
+00:01:32.007 --> 00:01:36.008
+especially those dealing with serious outcomes,
+
+27
+00:01:36.008 --> 00:01:42.000
+society will be forced to wrestle with moral dilemmas.
+
+28
+00:01:42.000 --> 00:01:45.000
+Without a systematic and thorough resolution
+
+29
+00:01:45.000 --> 00:01:49.001
+of these dilemmas, we will either have chaos
+
+30
+00:01:49.001 --> 00:01:54.002
+or a slow down in the deployment of AI technologies.
+
+31
+00:01:54.002 --> 00:01:56.008
+Take the case of autonomy in cars.
+
+32
+00:01:56.008 --> 00:02:01.000
+From keeping the car within its lane to self-parking,
+
+33
+00:02:01.000 --> 00:02:04.007
+cars are steadily becoming more autonomous.
+
+34
+00:02:04.007 --> 00:02:06.009
+They're also becoming safer,
+
+35
+00:02:06.009 --> 00:02:12.003
+yet every time an autopilot causes a fatality,
+
+36
+00:02:12.003 --> 00:02:14.006
+there is media outcry.
+
+37
+00:02:14.006 --> 00:02:18.000
+In contrast, we hardly ever read about
+
+38
+00:02:18.000 --> 00:02:22.006
+the 36,000 deaths in the U.S. alone annually
+
+39
+00:02:22.006 --> 00:02:25.005
+from accidents caused by humans.
+
+40
+00:02:25.005 --> 00:02:26.007
+Why?
+
+41
+00:02:26.007 --> 00:02:29.004
+The answer lies in research findings,
+
+42
+00:02:29.004 --> 00:02:33.008
+that being human, society seems willing to accept
+
+43
+00:02:33.008 --> 00:02:37.000
+human frailties much more readily
+
+44
+00:02:37.000 --> 00:02:40.002
+than errors attributable to machines.
+
+45
+00:02:40.002 --> 00:02:44.009
+Now imagine that sometime during this decade,
+
+46
+00:02:44.009 --> 00:02:49.007
+cars become fully autonomous and 100% safe
+
+47
+00:02:49.007 --> 00:02:53.005
+in terms of never making any mistake.
+
+48
+00:02:53.005 --> 00:02:55.007
+Purely in terms of saving lives,
+
+49
+00:02:55.007 --> 00:03:00.003
+it's obvious that people should then prefer such cars
+
+50
+00:03:00.003 --> 00:03:02.003
+over driving themselves.
+
+51
+00:03:02.003 --> 00:03:06.007
+Yet the moral dilemmas will not go away.
+
+52
+00:03:06.007 --> 00:03:09.009
+They may even become more difficult.
+
+53
+00:03:09.009 --> 00:03:13.003
+In a variant of the well-known trolley problem,
+
+54
+00:03:13.003 --> 00:03:16.007
+assume that this is 2027
+
+55
+00:03:16.007 --> 00:03:22.000
+and you are riding alone in a 100% safe autonomous car.
+
+56
+00:03:22.000 --> 00:03:25.002
+Suddenly, something heavy drops
+
+57
+00:03:25.002 --> 00:03:28.000
+from the truck in front of you.
+
+58
+00:03:28.000 --> 00:03:31.006
+Should the car keep driving and hit the boxes,
+
+59
+00:03:31.006 --> 00:03:35.006
+almost certainly causing great danger to you,
+
+60
+00:03:35.006 --> 00:03:38.005
+swerve to the right, hit a minivan,
+
+61
+00:03:38.005 --> 00:03:40.008
+endangering five people,
+
+62
+00:03:40.008 --> 00:03:43.009
+or swerve to the left and hit a sedan,
+
+63
+00:03:43.009 --> 00:03:46.003
+endangering only two people?
+
+64
+00:03:46.003 --> 00:03:48.003
+What is morally right?
+
+65
+00:03:48.003 --> 00:03:52.000
+Would the answer be any different if you're 25
+
+66
+00:03:52.000 --> 00:03:56.003
+and all of these seven other people are in their 80s?
+
+67
+00:03:56.003 --> 00:04:00.000
+What if the two people in the sedan are in their 20s,
+
+68
+00:04:00.000 --> 00:04:03.009
+but the five people in the minivan are in their 80s?
+
+69
+00:04:03.009 --> 00:04:07.002
+Whatever choice a human driver made
+
+70
+00:04:07.002 --> 00:04:09.005
+in any of these contexts,
+
+71
+00:04:09.005 --> 00:04:12.005
+we would accept it as just unplanned,
+
+72
+00:04:12.005 --> 00:04:15.002
+spontaneous human reaction.
+
+73
+00:04:15.002 --> 00:04:19.000
+But if the choice is made by a machine,
+
+74
+00:04:19.000 --> 00:04:23.003
+we would treat it as the result of a design decision
+
+75
+00:04:23.003 --> 00:04:28.004
+deliberately choosing one person's injury over another's.
+
+76
+00:04:28.004 --> 00:04:34.000
+So if you are one of the engineers designing the car,
+
+77
+00:04:34.000 --> 00:04:38.004
+what heuristics would you build into the AI?
+
+78
+00:04:38.004 --> 00:04:42.006
+As CEO, what guidance would you provide?
+
+79
+00:04:42.006 --> 00:04:45.002
+This is not just an engineering problem,
+
+80
+00:04:45.002 --> 00:04:48.006
+it's a moral question that requires input,
+
+81
+00:04:48.006 --> 00:04:51.007
+from not only lawyers and philosophers,
+
+82
+00:04:51.007 --> 00:04:54.007
+but also legislators and regulators
+
+83
+00:04:54.007 --> 00:04:58.003
+acting on behalf of society.
+
+84
+00:04:58.003 --> 00:05:03.002
+Think about the applications of AI in your organization.
+
+85
+00:05:03.002 --> 00:05:07.009
+What moral dilemmas do your company's leaders face today
+
+86
+00:05:07.009 --> 00:05:12.009
+and what moral dilemmas will they face five years from now?
