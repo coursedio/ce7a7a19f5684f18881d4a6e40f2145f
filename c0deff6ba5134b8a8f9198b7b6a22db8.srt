@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.002
+- Google CEO, Sundar Pichai,
+
+2
+00:00:03.002 --> 00:00:05.006
+has termed artificial intelligence
+
+3
+00:00:05.006 --> 00:00:09.009
+as more profound than fire or electricity.
+
+4
+00:00:09.009 --> 00:00:12.000
+- NVIDIA's CEO, Jensen Quang,
+
+5
+00:00:12.000 --> 00:00:17.004
+calls AI the most powerful technology the world has known.
+
+6
+00:00:17.004 --> 00:00:20.003
+This is the age of AI.
+
+7
+00:00:20.003 --> 00:00:24.002
+- Artificial intelligence is a general purpose technology
+
+8
+00:00:24.002 --> 00:00:26.007
+that is becoming more powerful by the day
+
+9
+00:00:26.007 --> 00:00:31.001
+and being deployed in all walks of life and work.
+
+10
+00:00:31.001 --> 00:00:34.000
+Within the next five years, every job,
+
+11
+00:00:34.000 --> 00:00:36.008
+every function, and every industry
+
+12
+00:00:36.008 --> 00:00:41.003
+will be transformed by the power of AI.
+
+13
+00:00:41.003 --> 00:00:45.001
+Hi, I'm Anil Gupta, Michael Dingman Chair,
+
+14
+00:00:45.001 --> 00:00:48.003
+and Professor of Strategy at the Smith School of Business,
+
+15
+00:00:48.003 --> 00:00:51.000
+the University of Maryland at College Park.
+
+16
+00:00:51.000 --> 00:00:52.005
+- And I'm Haiyan Wang,
+
+17
+00:00:52.005 --> 00:00:55.008
+Managing Partner of the China India Institute.
+
+18
+00:00:55.008 --> 00:00:58.000
+- Join us at LinkedIn Learning,
+
+19
+00:00:58.000 --> 00:01:01.001
+where we start by clarifying what AI is
+
+20
+00:01:01.001 --> 00:01:02.006
+and how it is developed,
+
+21
+00:01:02.006 --> 00:01:05.005
+and then spend a good chunk of the time
+
+22
+00:01:05.005 --> 00:01:08.002
+examining how AI can be deployed
+
+23
+00:01:08.002 --> 00:01:10.005
+to create competitive advantages,
+
+24
+00:01:10.005 --> 00:01:13.007
+both on stage and backstage.
+
+25
+00:01:13.007 --> 00:01:16.008
+Join us on this exciting journey.
