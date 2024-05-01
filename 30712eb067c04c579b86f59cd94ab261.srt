@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:03.000
+- Opportunities to use AI
+
+2
+00:00:03.000 --> 00:00:05.008
+for smarter human resource management
+
+3
+00:00:05.008 --> 00:00:10.001
+exist in all aspects of the HR value chain,
+
+4
+00:00:10.001 --> 00:00:13.006
+job search platforms, candidate screening,
+
+5
+00:00:13.006 --> 00:00:15.003
+training and development,
+
+6
+00:00:15.003 --> 00:00:17.003
+promotion decisions,
+
+7
+00:00:17.003 --> 00:00:20.001
+even dismissal.
+
+8
+00:00:20.001 --> 00:00:22.001
+Like every technology,
+
+9
+00:00:22.001 --> 00:00:27.002
+AI can also be misused or abused.
+
+10
+00:00:27.002 --> 00:00:30.007
+People may put up with perceived unfairness
+
+11
+00:00:30.007 --> 00:00:33.002
+in many context
+
+12
+00:00:33.002 --> 00:00:36.003
+but if it's their livelihood,
+
+13
+00:00:36.003 --> 00:00:38.007
+and sense of self-worth
+
+14
+00:00:38.007 --> 00:00:42.003
+perceived unfairness can easily lead
+
+15
+00:00:42.003 --> 00:00:46.003
+to tearing the company in the media, lawsuits,
+
+16
+00:00:46.003 --> 00:00:48.005
+or even violence.
+
+17
+00:00:48.005 --> 00:00:51.002
+Companies need to be particularly conscious
+
+18
+00:00:51.002 --> 00:00:55.001
+about using AI for HR in ethical,
+
+19
+00:00:55.001 --> 00:00:58.003
+and bias-free ways.
+
+20
+00:00:58.003 --> 00:01:00.002
+Let's start with the use of AI
+
+21
+00:01:00.002 --> 00:01:03.008
+by job search platforms such as LinkedIn,
+
+22
+00:01:03.008 --> 00:01:06.003
+and ZipRecruiter.
+
+23
+00:01:06.003 --> 00:01:09.009
+These platforms recommend open positions
+
+24
+00:01:09.009 --> 00:01:14.005
+to individuals and candidates to companies.
+
+25
+00:01:14.005 --> 00:01:16.000
+Nearly always,
+
+26
+00:01:16.000 --> 00:01:18.005
+the platform needs to use natural
+
+27
+00:01:18.005 --> 00:01:21.001
+language processing to decode,
+
+28
+00:01:21.001 --> 00:01:24.004
+and individuals credentials on the one hand,
+
+29
+00:01:24.004 --> 00:01:28.006
+and job requirements on the other.
+
+30
+00:01:28.006 --> 00:01:33.006
+Consider now the use of AI to screen candidates.
+
+31
+00:01:33.006 --> 00:01:38.002
+Most large employers ask people to apply online.
+
+32
+00:01:38.002 --> 00:01:42.004
+They input always includes resume information
+
+33
+00:01:42.004 --> 00:01:44.000
+but may also include
+
+34
+00:01:44.000 --> 00:01:47.007
+asynchronous video interviews.
+
+35
+00:01:47.007 --> 00:01:50.003
+Companies can also look at the candidates
+
+36
+00:01:50.003 --> 00:01:53.008
+social media posts and government databases
+
+37
+00:01:53.008 --> 00:01:56.007
+such as police records.
+
+38
+00:01:56.007 --> 00:01:59.008
+AI models play a crucial role
+
+39
+00:01:59.008 --> 00:02:03.002
+in screening this information.
+
+40
+00:02:03.002 --> 00:02:05.007
+Natural language processing technology
+
+41
+00:02:05.007 --> 00:02:09.003
+is essential to decode the candidate's
+
+42
+00:02:09.003 --> 00:02:12.007
+application as well as text-based
+
+43
+00:02:12.007 --> 00:02:15.004
+social media postings.
+
+44
+00:02:15.004 --> 00:02:16.004
+In turn,
+
+45
+00:02:16.004 --> 00:02:19.007
+computer vision technology is essential
+
+46
+00:02:19.007 --> 00:02:22.003
+to interpret video interviews
+
+47
+00:02:22.003 --> 00:02:27.006
+as well as images and video post on social media.
+
+48
+00:02:27.006 --> 00:02:30.004
+There are no ethical issues with using AI
+
+49
+00:02:30.004 --> 00:02:33.006
+to decode the candidate's application,
+
+50
+00:02:33.006 --> 00:02:37.007
+and to assess fit with the company's needs.
+
+51
+00:02:37.007 --> 00:02:38.008
+It's also reasonable
+
+52
+00:02:38.008 --> 00:02:42.000
+for companies to analyze government databases
+
+53
+00:02:42.000 --> 00:02:46.005
+to assess risks of criminality or terrorism.
+
+54
+00:02:46.005 --> 00:02:50.007
+However, I contend that it is bad practice
+
+55
+00:02:50.007 --> 00:02:54.001
+to use AI to assess someone's personality
+
+56
+00:02:54.001 --> 00:02:56.008
+from video interviews.
+
+57
+00:02:56.008 --> 00:03:00.008
+Personality is a complex construct.
+
+58
+00:03:00.008 --> 00:03:05.002
+Today's AI is too rudimentary to decode it
+
+59
+00:03:05.002 --> 00:03:07.000
+from video interviews,
+
+60
+00:03:07.000 --> 00:03:09.008
+and most experts view it as no better
+
+61
+00:03:09.008 --> 00:03:14.002
+than trying to extract oil from a snake.
+
+62
+00:03:14.002 --> 00:03:17.003
+Regarding analysis of social media posts,
+
+63
+00:03:17.003 --> 00:03:20.000
+it's a gray area.
+
+64
+00:03:20.000 --> 00:03:24.000
+These posts exist in the public domain,
+
+65
+00:03:24.000 --> 00:03:27.000
+and the content can be analyzed well
+
+66
+00:03:27.000 --> 00:03:30.005
+to assess someone's interests and views,
+
+67
+00:03:30.005 --> 00:03:33.009
+though not their personality.
+
+68
+00:03:33.009 --> 00:03:36.009
+The issue is privacy.
+
+69
+00:03:36.009 --> 00:03:39.003
+Also some governments require
+
+70
+00:03:39.003 --> 00:03:41.009
+that asked by candidate,
+
+71
+00:03:41.009 --> 00:03:45.000
+the company must be able to explain
+
+72
+00:03:45.000 --> 00:03:50.006
+specifically why he or she was rejected.
+
+73
+00:03:50.006 --> 00:03:54.001
+AI is mostly a black box.
+
+74
+00:03:54.001 --> 00:03:57.002
+And saying that my AI did it,
+
+75
+00:03:57.002 --> 00:03:59.007
+would not be an acceptable answer
+
+76
+00:03:59.007 --> 00:04:02.002
+to these governments.
+
+77
+00:04:02.002 --> 00:04:06.002
+How about using AI for training and development?
+
+78
+00:04:06.002 --> 00:04:09.002
+Translation systems developed using AI
+
+79
+00:04:09.002 --> 00:04:14.002
+are already very competent across many languages.
+
+80
+00:04:14.002 --> 00:04:16.004
+Companies can use these systems
+
+81
+00:04:16.004 --> 00:04:19.003
+to translate their online training material
+
+82
+00:04:19.003 --> 00:04:21.006
+into multiple languages quickly,
+
+83
+00:04:21.006 --> 00:04:24.003
+and inexpensively.
+
+84
+00:04:24.003 --> 00:04:26.009
+AI tools can also be used
+
+85
+00:04:26.009 --> 00:04:29.005
+to assess an individual's grasp
+
+86
+00:04:29.005 --> 00:04:32.008
+of specific materials accurately,
+
+87
+00:04:32.008 --> 00:04:37.002
+and to suggest the next module in the program.
+
+88
+00:04:37.002 --> 00:04:38.002
+As a result,
+
+89
+00:04:38.002 --> 00:04:42.007
+people can learn in a more personalized manner.
+
+90
+00:04:42.007 --> 00:04:46.005
+Finally, let's look at how AI is used
+
+91
+00:04:46.005 --> 00:04:49.004
+to decide who to promote.
+
+92
+00:04:49.004 --> 00:04:51.008
+As with screening job applicants,
+
+93
+00:04:51.008 --> 00:04:57.009
+this context also has potential for misuse of AI.
+
+94
+00:04:57.009 --> 00:05:01.001
+Documented cases exist of companies
+
+95
+00:05:01.001 --> 00:05:03.009
+or consultants training AI models
+
+96
+00:05:03.009 --> 00:05:06.002
+on historical data pertaining
+
+97
+00:05:06.002 --> 00:05:11.004
+to who was promoted in the past or not.
+
+98
+00:05:11.004 --> 00:05:12.004
+In the US,
+
+99
+00:05:12.004 --> 00:05:16.005
+such an approach is likely to yield AI models
+
+100
+00:05:16.005 --> 00:05:20.009
+that may disproportionately favor white males
+
+101
+00:05:20.009 --> 00:05:24.006
+even when others are more qualifying.
+
+102
+00:05:24.006 --> 00:05:28.005
+It is an imperative that companies be especially
+
+103
+00:05:28.005 --> 00:05:32.001
+vigilant when using AI to guide them
+
+104
+00:05:32.001 --> 00:05:35.008
+in making promotion decisions.
+
+105
+00:05:35.008 --> 00:05:37.005
+Building on these ideas,
+
+106
+00:05:37.005 --> 00:05:41.000
+I propose the following assignment.
+
+107
+00:05:41.000 --> 00:05:44.002
+Pick three different HR processes
+
+108
+00:05:44.002 --> 00:05:46.002
+in your company.
+
+109
+00:05:46.002 --> 00:05:50.005
+How might you deploy AI to manage these processes
+
+110
+00:05:50.005 --> 00:05:52.004
+more intelligently?
