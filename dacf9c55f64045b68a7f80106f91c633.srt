@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:04.000
+- The goal of developing an AI tool is
+
+2
+00:00:04.000 --> 00:00:07.009
+to build a machine learning, or ML, model
+
+3
+00:00:07.009 --> 00:00:11.009
+that can take an input such as a tooth x-ray
+
+4
+00:00:11.009 --> 00:00:15.002
+and deliver an output such as whether or not
+
+5
+00:00:15.002 --> 00:00:17.003
+there is a cavity.
+
+6
+00:00:17.003 --> 00:00:22.004
+Training any ML model starts with two inputs,
+
+7
+00:00:22.004 --> 00:00:26.009
+a machine learning algorithm, and a data set.
+
+8
+00:00:26.009 --> 00:00:31.005
+Think of the algorithm as a specialized computer program,
+
+9
+00:00:31.005 --> 00:00:35.000
+designed to help an ML model learn
+
+10
+00:00:35.000 --> 00:00:39.004
+to do a particular task intelligently.
+
+11
+00:00:39.004 --> 00:00:43.004
+At a macro level, there are three different types
+
+12
+00:00:43.004 --> 00:00:46.003
+of machine learning algorithms,
+
+13
+00:00:46.003 --> 00:00:50.004
+each relevant for certain types of tasks.
+
+14
+00:00:50.004 --> 00:00:53.004
+I use the word type to highlight
+
+15
+00:00:53.004 --> 00:00:58.008
+that there exist many different algorithms within each type.
+
+16
+00:00:58.008 --> 00:01:06.009
+Also ML engineers keep tweaking their algorithms regularly.
+
+17
+00:01:06.009 --> 00:01:09.003
+Supervised learning refers
+
+18
+00:01:09.003 --> 00:01:12.001
+to those machine learning algorithms
+
+19
+00:01:12.001 --> 00:01:14.002
+where the machine learns
+
+20
+00:01:14.002 --> 00:01:18.002
+from answer keys provided in the training data.
+
+21
+00:01:18.002 --> 00:01:19.008
+For example,
+
+22
+00:01:19.008 --> 00:01:22.000
+in developing an ML model
+
+23
+00:01:22.000 --> 00:01:27.002
+to classify incoming emails a spam, not spam,
+
+24
+00:01:27.002 --> 00:01:31.005
+each email in the training data set must have
+
+25
+00:01:31.005 --> 00:01:38.003
+a pre-specified label denoting whether it is spam or not.
+
+26
+00:01:38.003 --> 00:01:42.000
+As another example of supervised learning,
+
+27
+00:01:42.000 --> 00:01:45.000
+say you want to develop an ML model
+
+28
+00:01:45.000 --> 00:01:50.001
+to predict the sales impact of increased advertising
+
+29
+00:01:50.001 --> 00:01:52.004
+and our short term price discounts
+
+30
+00:01:52.004 --> 00:01:56.008
+for a perishable product such as packaged yogurt.
+
+31
+00:01:56.008 --> 00:01:58.005
+In this case
+
+32
+00:01:58.005 --> 00:02:03.005
+your training data set must include real information
+
+33
+00:02:03.005 --> 00:02:05.001
+on the sales impact
+
+34
+00:02:05.001 --> 00:02:10.008
+of previous advertising budgets and price changes.
+
+35
+00:02:10.008 --> 00:02:13.002
+Unsupervised learning refers
+
+36
+00:02:13.002 --> 00:02:16.004
+to those machine learning algorithms
+
+37
+00:02:16.004 --> 00:02:21.008
+that must train the ML model without having an answer key.
+
+38
+00:02:21.008 --> 00:02:25.000
+Instead, the model is trained
+
+39
+00:02:25.000 --> 00:02:29.000
+to identify patterns in available data.
+
+40
+00:02:29.000 --> 00:02:31.008
+Once the model has learned the patterns,
+
+41
+00:02:31.008 --> 00:02:34.000
+it applies this knowledge
+
+42
+00:02:34.000 --> 00:02:39.002
+to provide intelligent answers for new events.
+
+43
+00:02:39.002 --> 00:02:45.009
+As new data emerges, the ML model keeps refreshing itself.
+
+44
+00:02:45.009 --> 00:02:50.002
+Netflix's recommendation engine is a good example
+
+45
+00:02:50.002 --> 00:02:54.001
+of training via unsupervised learning.
+
+46
+00:02:54.001 --> 00:02:57.008
+Each time you open the Netflix app
+
+47
+00:02:57.008 --> 00:02:59.005
+the company's goal is
+
+48
+00:02:59.005 --> 00:03:04.001
+to present from top to bottom and from left to right
+
+49
+00:03:04.001 --> 00:03:09.009
+specific genres and movies that you may like to watch.
+
+50
+00:03:09.009 --> 00:03:13.003
+The faster you are able to locate a movie
+
+51
+00:03:13.003 --> 00:03:15.004
+that you would enjoy watching
+
+52
+00:03:15.004 --> 00:03:20.000
+the better it is for you and Netflix.
+
+53
+00:03:20.000 --> 00:03:24.001
+The algorithm builds the recommendation engine
+
+54
+00:03:24.001 --> 00:03:28.004
+by making use of everything in the database
+
+55
+00:03:28.004 --> 00:03:31.008
+about your historical viewing choices,
+
+56
+00:03:31.008 --> 00:03:37.001
+and mapping them against the choices made by other users
+
+57
+00:03:37.001 --> 00:03:42.002
+whose viewing habits very similar to yours.
+
+58
+00:03:42.002 --> 00:03:46.004
+Finally, reinforcement learning refers
+
+59
+00:03:46.004 --> 00:03:49.007
+to those machine learning algorithms
+
+60
+00:03:49.007 --> 00:03:52.001
+that must train an ML model
+
+61
+00:03:52.001 --> 00:03:56.006
+to make a sequence of interrelated decisions
+
+62
+00:03:56.006 --> 00:03:57.005
+where the quality
+
+63
+00:03:57.005 --> 00:04:01.007
+of any particular decisions rest fundamentally
+
+64
+00:04:01.007 --> 00:04:05.008
+on future decisions yet to be made.
+
+65
+00:04:05.008 --> 00:04:08.009
+For example, playing a game of chess
+
+66
+00:04:08.009 --> 00:04:12.006
+or driving a car autonomously.
+
+67
+00:04:12.006 --> 00:04:14.009
+From a decision making lens
+
+68
+00:04:14.009 --> 00:04:17.007
+such tasks are very different
+
+69
+00:04:17.007 --> 00:04:21.007
+from those which require only one short decisions
+
+70
+00:04:21.007 --> 00:04:25.005
+such as classifying an email a spam, not spam,
+
+71
+00:04:25.005 --> 00:04:27.002
+via supervised learning
+
+72
+00:04:27.002 --> 00:04:33.005
+or recommending a movie via unsupervised learning.
+
+73
+00:04:33.005 --> 00:04:38.006
+Think of an ML model that can play chess intelligently.
+
+74
+00:04:38.006 --> 00:04:42.002
+Whether it takes 20, 30, or 40 moves
+
+75
+00:04:42.002 --> 00:04:43.009
+to play a game of chess,
+
+76
+00:04:43.009 --> 00:04:46.002
+the only thing that matters is
+
+77
+00:04:46.002 --> 00:04:49.002
+whether you win or lose in the end,
+
+78
+00:04:49.002 --> 00:04:54.000
+the score is based on the joint effect of all moves,
+
+79
+00:04:54.000 --> 00:04:58.000
+and it is often impossible to know ex ante
+
+80
+00:04:58.000 --> 00:05:02.001
+whether any single move was a good or a bad one.
+
+81
+00:05:02.001 --> 00:05:07.004
+This is why training and AI to play chess requires
+
+82
+00:05:07.004 --> 00:05:10.007
+a reinforcement learning algorithm.
+
+83
+00:05:10.007 --> 00:05:16.000
+Now pick three or more opportunities in your company
+
+84
+00:05:16.000 --> 00:05:21.001
+where AI can be useful in helping to make better decisions.
+
+85
+00:05:21.001 --> 00:05:22.008
+Think about what type
+
+86
+00:05:22.008 --> 00:05:26.002
+of machine learning algorithm would be relevant
+
+87
+00:05:26.002 --> 00:05:28.004
+for each opportunity.
