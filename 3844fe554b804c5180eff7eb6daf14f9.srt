@@ -1,0 +1,321 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:03.003
+- AI can drive product innovation
+
+2
+00:00:03.003 --> 00:00:06.009
+in one or both of two ways.
+
+3
+00:00:06.009 --> 00:00:10.003
+As an embedded feature of the end product,
+
+4
+00:00:10.003 --> 00:00:16.002
+or as a tool to design and develop the end product.
+
+5
+00:00:16.002 --> 00:00:19.000
+I use the generic term product to refer
+
+6
+00:00:19.000 --> 00:00:22.007
+to both products and services.
+
+7
+00:00:22.007 --> 00:00:27.008
+Let's look at AI as an embedded feature of the end product.
+
+8
+00:00:27.008 --> 00:00:32.007
+The starting point must always be to gain insights
+
+9
+00:00:32.007 --> 00:00:37.005
+into your customer's known as well as hidden needs.
+
+10
+00:00:37.005 --> 00:00:42.002
+Doing so often requires immersion in the customer's world,
+
+11
+00:00:42.002 --> 00:00:47.000
+as well as understanding the needs of their customers.
+
+12
+00:00:47.000 --> 00:00:50.005
+Deep insights will almost always reveal
+
+13
+00:00:50.005 --> 00:00:54.000
+that some needs are being met at best partially,
+
+14
+00:00:54.000 --> 00:00:56.006
+and some not at all.
+
+15
+00:00:56.006 --> 00:01:01.005
+The next step is to explore how one or more AI tools,
+
+16
+00:01:01.005 --> 00:01:05.000
+computer vision, natural language processing,
+
+17
+00:01:05.000 --> 00:01:08.005
+complex computational capability, or robotics,
+
+18
+00:01:08.005 --> 00:01:11.002
+can be embedded in the product
+
+19
+00:01:11.002 --> 00:01:15.007
+to meet these needs more completely.
+
+20
+00:01:15.007 --> 00:01:21.005
+As an example, take John Deere's See & Spray tractors.
+
+21
+00:01:21.005 --> 00:01:25.007
+In recent years, environmental sustainability
+
+22
+00:01:25.007 --> 00:01:29.008
+has become a growing imperative for farmers.
+
+23
+00:01:29.008 --> 00:01:32.006
+Meeting this goal requires that farmers
+
+24
+00:01:32.006 --> 00:01:35.007
+cut down on the use of chemicals.
+
+25
+00:01:35.007 --> 00:01:40.004
+As the world's leading agricultural machinery company,
+
+26
+00:01:40.004 --> 00:01:45.002
+John Deere has stepped in to help find a solution.
+
+27
+00:01:45.002 --> 00:01:48.009
+The company's answer, embed computer vision
+
+28
+00:01:48.009 --> 00:01:52.006
+in an attachment to its tractors.
+
+29
+00:01:52.006 --> 00:01:55.006
+As the tractor moves through a farm,
+
+30
+00:01:55.006 --> 00:01:58.009
+an array of high-resolution cameras
+
+31
+00:01:58.009 --> 00:02:03.002
+takes images of whatever is growing underneath.
+
+32
+00:02:03.002 --> 00:02:06.008
+An untrained human eye would have a tough time
+
+33
+00:02:06.008 --> 00:02:10.006
+distinguishing between a crop and a weed.
+
+34
+00:02:10.006 --> 00:02:16.000
+However, a neural network trained through a million images,
+
+35
+00:02:16.000 --> 00:02:20.003
+a case of supervised learning, is able to classify
+
+36
+00:02:20.003 --> 00:02:24.009
+a weed from a crop, almost flawlessly.
+
+37
+00:02:24.009 --> 00:02:30.003
+The AI then directs automated nozzles to spray herbicides
+
+38
+00:02:30.003 --> 00:02:32.006
+on just the weeds.
+
+39
+00:02:32.006 --> 00:02:34.009
+The end result for the farmer,
+
+40
+00:02:34.009 --> 00:02:38.004
+80% reduction in the use of herbicides
+
+41
+00:02:38.004 --> 00:02:42.008
+as well as significant cost savings.
+
+42
+00:02:42.008 --> 00:02:48.001
+Let's now look at AI as a tool for product development.
+
+43
+00:02:48.001 --> 00:02:51.006
+By way of example, consider the challenge
+
+44
+00:02:51.006 --> 00:02:55.007
+of developing small organic molecules.
+
+45
+00:02:55.007 --> 00:02:59.006
+Organic chemists have historically relied
+
+46
+00:02:59.006 --> 00:03:01.008
+on intuition to figure out
+
+47
+00:03:01.008 --> 00:03:06.001
+how to synthesize a desired molecule.
+
+48
+00:03:06.001 --> 00:03:09.001
+The number of possible options,
+
+49
+00:03:09.001 --> 00:03:13.005
+most of which are dead ends, is simply too large
+
+50
+00:03:13.005 --> 00:03:18.005
+to use pure logic to find the right answer.
+
+51
+00:03:18.005 --> 00:03:23.007
+Marwin Segler, a German organic chemist come AI researcher,
+
+52
+00:03:23.007 --> 00:03:28.002
+decided to tackle this challenge differently.
+
+53
+00:03:28.002 --> 00:03:32.009
+Segler fed the AI system almost all of the known
+
+54
+00:03:32.009 --> 00:03:36.008
+single-step organic chemistry reactions,
+
+55
+00:03:36.008 --> 00:03:40.004
+about 12.4 million in total.
+
+56
+00:03:40.004 --> 00:03:42.007
+He specified the end goal,
+
+57
+00:03:42.007 --> 00:03:47.000
+a specific desired organic molecule.
+
+58
+00:03:47.000 --> 00:03:51.003
+A reinforcement learning algorithm then got to work,
+
+59
+00:03:51.003 --> 00:03:54.009
+using a neural network to discover a multi-step
+
+60
+00:03:54.009 --> 00:03:59.008
+synthesis route and the required starting reagents.
+
+61
+00:03:59.008 --> 00:04:04.007
+The benefits, speed, efficiency, and cost savings.
+
+62
+00:04:04.007 --> 00:04:08.007
+Interestingly, now that Segler has demonstrated
+
+63
+00:04:08.007 --> 00:04:13.002
+what AI can do, it has become possible for chemists
+
+64
+00:04:13.002 --> 00:04:15.007
+to invent new drug molecules
+
+65
+00:04:15.007 --> 00:04:18.007
+not previously thought possible.
+
+66
+00:04:18.007 --> 00:04:22.004
+The opportunities to use the AI as a tool
+
+67
+00:04:22.004 --> 00:04:27.006
+for accelerating product innovation are universal.
+
+68
+00:04:27.006 --> 00:04:31.008
+They include making sense of unstructured data,
+
+69
+00:04:31.008 --> 00:04:35.007
+for gaining deep insights about customers' needs,
+
+70
+00:04:35.007 --> 00:04:38.009
+as well as exploring a much larger number
+
+71
+00:04:38.009 --> 00:04:43.003
+of possible designs to discover a short list
+
+72
+00:04:43.003 --> 00:04:45.007
+of the best options.
+
+73
+00:04:45.007 --> 00:04:49.009
+Now think of at least one innovation opportunity
+
+74
+00:04:49.009 --> 00:04:52.008
+of each type within your company.
+
+75
+00:04:52.008 --> 00:04:55.004
+How might you be able to embed
+
+76
+00:04:55.004 --> 00:05:00.006
+some type of AI in one of your products or services
+
+77
+00:05:00.006 --> 00:05:04.000
+to dramatically improve its functionality
+
+78
+00:05:04.000 --> 00:05:09.006
+for the customer, and how might you be able to use AI
+
+79
+00:05:09.006 --> 00:05:14.000
+as a tool to accelerate the next product development
+
+80
+00:05:14.000 --> 00:05:17.000
+or redevelopment initiative?
