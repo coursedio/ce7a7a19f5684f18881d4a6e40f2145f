@@ -1,0 +1,293 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:03.008
+- Doing business without market research
+
+2
+00:00:03.008 --> 00:00:08.004
+is akin to flying an airplane blind.
+
+3
+00:00:08.004 --> 00:00:11.008
+While casual market research is as old
+
+4
+00:00:11.008 --> 00:00:13.009
+as human civilization,
+
+5
+00:00:13.009 --> 00:00:18.003
+systematic market research began in the 1920s
+
+6
+00:00:18.003 --> 00:00:22.006
+and is now a well-developed discipline.
+
+7
+00:00:22.006 --> 00:00:24.003
+Now withstanding developments
+
+8
+00:00:24.003 --> 00:00:26.002
+over the last hundred years,
+
+9
+00:00:26.002 --> 00:00:29.006
+market research is in the early stages
+
+10
+00:00:29.006 --> 00:00:34.001
+of a profound AI-powered revolution.
+
+11
+00:00:34.001 --> 00:00:38.006
+Market research practitioners are reexamining
+
+12
+00:00:38.006 --> 00:00:44.006
+every aspect of how AI can help discover better answers
+
+13
+00:00:44.006 --> 00:00:47.009
+to marketing questions, such as:
+
+14
+00:00:47.009 --> 00:00:49.004
+What do your target customers
+
+15
+00:00:49.004 --> 00:00:53.006
+and consumers want and need, and why?
+
+16
+00:00:53.006 --> 00:00:56.008
+What are they willing to pay, and why?
+
+17
+00:00:56.008 --> 00:01:00.005
+What do they expect from your products and service?
+
+18
+00:01:00.005 --> 00:01:03.008
+How do they perceive what you offer?
+
+19
+00:01:03.008 --> 00:01:07.009
+What's your brand awareness and brand image?
+
+20
+00:01:07.009 --> 00:01:10.004
+Who are your competitors?
+
+21
+00:01:10.004 --> 00:01:13.000
+Their strengths and weaknesses?
+
+22
+00:01:13.000 --> 00:01:15.006
+How are these changing?
+
+23
+00:01:15.006 --> 00:01:19.004
+AI's biggest impact lies in using the power
+
+24
+00:01:19.004 --> 00:01:21.003
+of natural language processing
+
+25
+00:01:21.003 --> 00:01:26.004
+and computer vision to tap into unstructured data.
+
+26
+00:01:26.004 --> 00:01:30.003
+Doing so can broaden the external ecosystem
+
+27
+00:01:30.003 --> 00:01:32.008
+that can be tapped into
+
+28
+00:01:32.008 --> 00:01:37.009
+and deepen the insights gathered from doing so.
+
+29
+00:01:37.009 --> 00:01:41.005
+Let me highlight four of the most important ways
+
+30
+00:01:41.005 --> 00:01:44.007
+AI can help you tap into unstructured data
+
+31
+00:01:44.007 --> 00:01:47.001
+for market research.
+
+32
+00:01:47.001 --> 00:01:50.004
+First, AI can help marketers
+
+33
+00:01:50.004 --> 00:01:54.001
+capture the information embedded in social media posts,
+
+34
+00:01:54.001 --> 00:01:56.008
+on platforms such as LinkedIn,
+
+35
+00:01:56.008 --> 00:02:00.007
+Facebook, Twitter, TikTok, YouTube, and the like.
+
+36
+00:02:00.007 --> 00:02:04.009
+Worldwide, every single adult younger than 40
+
+37
+00:02:04.009 --> 00:02:07.002
+already spend more than two hours
+
+38
+00:02:07.002 --> 00:02:10.008
+on social media every single day.
+
+39
+00:02:10.008 --> 00:02:14.009
+Almost all social media posts exist in a form
+
+40
+00:02:14.009 --> 00:02:19.008
+of free-form text, audio, images, and video.
+
+41
+00:02:19.008 --> 00:02:23.006
+AI can decode this unstructured data
+
+42
+00:02:23.006 --> 00:02:27.008
+to yield better insights about the wants, needs,
+
+43
+00:02:27.008 --> 00:02:32.007
+attitudes, and behaviors of target consumers.
+
+44
+00:02:32.007 --> 00:02:37.006
+Second, AI can unlock insights buried
+
+45
+00:02:37.006 --> 00:02:41.003
+in contact center recordings.
+
+46
+00:02:41.003 --> 00:02:45.006
+Most companies use contact centers where customers can ask
+
+47
+00:02:45.006 --> 00:02:49.004
+about product, place orders, file complaints,
+
+48
+00:02:49.004 --> 00:02:52.005
+or seek product support.
+
+49
+00:02:52.005 --> 00:02:57.001
+Companies have long relied on contact center personnel
+
+50
+00:02:57.001 --> 00:03:03.001
+to log the call and record a few relevant details.
+
+51
+00:03:03.001 --> 00:03:07.000
+This practice leads to a vast under-utilization
+
+52
+00:03:07.000 --> 00:03:09.008
+of available information.
+
+53
+00:03:09.008 --> 00:03:14.000
+AI-powered tools for natural language understanding
+
+54
+00:03:14.000 --> 00:03:16.007
+can interpret and codify
+
+55
+00:03:16.007 --> 00:03:20.003
+all of these recordings far more efficiently
+
+56
+00:03:20.003 --> 00:03:23.005
+and in real time.
+
+57
+00:03:23.005 --> 00:03:28.009
+Third, AI can make focus groups more insightful.
+
+58
+00:03:28.009 --> 00:03:33.008
+Focus groups, whereby a moderator facilitates discussion
+
+59
+00:03:33.008 --> 00:03:36.008
+among a select group of six to 10 people
+
+60
+00:03:36.008 --> 00:03:39.000
+to discuss a topic in some depths,
+
+61
+00:03:39.000 --> 00:03:42.006
+are are a staple of market research.
+
+62
+00:03:42.006 --> 00:03:46.006
+Typically, companies rely on their observers
+
+63
+00:03:46.006 --> 00:03:49.008
+to make sense of the discussion.
+
+64
+00:03:49.008 --> 00:03:54.001
+The risk is that corporate personnel can be selective
+
+65
+00:03:54.001 --> 00:03:55.008
+in what they take in
+
+66
+00:03:55.008 --> 00:04:01.001
+and biased in interpreting what they do take in.
+
+67
+00:04:01.001 --> 00:04:05.002
+AI can potentially do a much better job
+
+68
+00:04:05.002 --> 00:04:09.007
+at interpreting all of the visual and audio data
+
+69
+00:04:09.007 --> 00:04:12.002
+without any bias.
+
+70
+00:04:12.002 --> 00:04:16.006
+Now, think about the next two market research studies
+
+71
+00:04:16.006 --> 00:04:20.004
+that your organization may need to launch.
+
+72
+00:04:20.004 --> 00:04:25.004
+How might you deploy AI tools to enrich
+
+73
+00:04:25.004 --> 00:04:27.008
+and deepen these studies?
