@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:04.005
+- Data to AI is like fuel to a fire.
+
+2
+00:00:04.005 --> 00:00:08.009
+The cleaner, richer and larger the dataset
+
+3
+00:00:08.009 --> 00:00:12.001
+on which it is trained the more accurate
+
+4
+00:00:12.001 --> 00:00:14.008
+your AI model will be.
+
+5
+00:00:14.008 --> 00:00:17.008
+Here are five of the most important steps
+
+6
+00:00:17.008 --> 00:00:21.004
+towards building a robust dataset.
+
+7
+00:00:21.004 --> 00:00:25.002
+First, strive for maximum consistency
+
+8
+00:00:25.002 --> 00:00:26.005
+in the labels attached to,
+
+9
+00:00:26.005 --> 00:00:31.003
+and the format of each case in your dataset.
+
+10
+00:00:31.003 --> 00:00:35.004
+Lack of standardization is like ambient noise
+
+11
+00:00:35.004 --> 00:00:39.003
+when you are trying to listen to someone in a room.
+
+12
+00:00:39.003 --> 00:00:43.006
+Take VideoHealth, a startup that uses AI
+
+13
+00:00:43.006 --> 00:00:48.005
+to help dentists diagnose teeth x-rays.
+
+14
+00:00:48.005 --> 00:00:51.009
+As noted in the Harvard case, video obtained
+
+15
+00:00:51.009 --> 00:00:56.001
+several million x-rays from dental service organizations
+
+16
+00:00:56.001 --> 00:01:01.004
+and used a subset of these to train the AI model.
+
+17
+00:01:01.004 --> 00:01:05.000
+They realized, however, that image formats
+
+18
+00:01:05.000 --> 00:01:07.005
+and clinical labeling conventions
+
+19
+00:01:07.005 --> 00:01:11.005
+varied widely across dental practices.
+
+20
+00:01:11.005 --> 00:01:14.006
+Video developers built software
+
+21
+00:01:14.006 --> 00:01:18.004
+to standardize image formats and labels.
+
+22
+00:01:18.004 --> 00:01:21.009
+This consistency was essential
+
+23
+00:01:21.009 --> 00:01:25.009
+for building a more accurate AI model.
+
+24
+00:01:25.009 --> 00:01:29.004
+Second, assess whether the dataset
+
+25
+00:01:29.004 --> 00:01:32.006
+is rich enough in terms of features,
+
+26
+00:01:32.006 --> 00:01:37.002
+that is variables associated with each case.
+
+27
+00:01:37.002 --> 00:01:39.006
+A richer set of relevant features
+
+28
+00:01:39.006 --> 00:01:44.003
+will create a more accurate AI model.
+
+29
+00:01:44.003 --> 00:01:46.006
+Say you want to build an AI model
+
+30
+00:01:46.006 --> 00:01:49.003
+to recommend what jacket might go well
+
+31
+00:01:49.003 --> 00:01:52.009
+with a pair of trousers that a female customer
+
+32
+00:01:52.009 --> 00:01:56.003
+is considering on your online store.
+
+33
+00:01:56.003 --> 00:01:57.007
+Some of the relevant features
+
+34
+00:01:57.007 --> 00:02:00.005
+might include her purchase history,
+
+35
+00:02:00.005 --> 00:02:05.001
+her age, her ethnicity, her profession, whether she lives
+
+36
+00:02:05.001 --> 00:02:10.009
+in a large city or a small town, even her climatic region.
+
+37
+00:02:10.009 --> 00:02:14.008
+If you do not have information on some of these features
+
+38
+00:02:14.008 --> 00:02:21.001
+your AI model will be less accurate than it could be.
+
+39
+00:02:21.001 --> 00:02:25.000
+Third, look for missing data.
+
+40
+00:02:25.000 --> 00:02:29.006
+One solution is to manually collected missing information.
+
+41
+00:02:29.006 --> 00:02:33.006
+With large datasets this can be time consuming
+
+42
+00:02:33.006 --> 00:02:37.000
+and expensive, an alternative can be
+
+43
+00:02:37.000 --> 00:02:39.000
+to fill in the missing values
+
+44
+00:02:39.000 --> 00:02:43.009
+via statistical interpolation from other cases.
+
+45
+00:02:43.009 --> 00:02:49.003
+Yet, another alternative can be to train the AI model only
+
+46
+00:02:49.003 --> 00:02:53.001
+on those features where you have more complete data,
+
+47
+00:02:53.001 --> 00:02:58.000
+or on features that are more important.
+
+48
+00:02:58.000 --> 00:03:01.002
+Fourth, assess the possibility
+
+49
+00:03:01.002 --> 00:03:06.006
+of unacceptable biases embedded in the database.
+
+50
+00:03:06.006 --> 00:03:09.009
+Say, you are an HR manager and want to train
+
+51
+00:03:09.009 --> 00:03:14.000
+an AI model to help screen job applicants.
+
+52
+00:03:14.000 --> 00:03:16.007
+In this case, you need to evaluate
+
+53
+00:03:16.007 --> 00:03:21.004
+whether ethnic or gender biases of your predecessors
+
+54
+00:03:21.004 --> 00:03:25.000
+may have made the database a poor predictor
+
+55
+00:03:25.000 --> 00:03:30.000
+of how future hiring decisions should be made.
+
+56
+00:03:30.000 --> 00:03:32.005
+Later, in this course, we discuss
+
+57
+00:03:32.005 --> 00:03:35.006
+some of the ways historical biases
+
+58
+00:03:35.006 --> 00:03:40.005
+can be accounted for when training an AI model.
+
+59
+00:03:40.005 --> 00:03:44.001
+Fifth, assess whether the size
+
+60
+00:03:44.001 --> 00:03:46.009
+of your database is large enough.
+
+61
+00:03:46.009 --> 00:03:51.002
+A few thousand cases may suffice when the connection
+
+62
+00:03:51.002 --> 00:03:54.003
+between inputs and outputs is simple.
+
+63
+00:03:54.003 --> 00:03:57.000
+For example, training an AI model
+
+64
+00:03:57.000 --> 00:03:59.000
+to identify the makes and models
+
+65
+00:03:59.000 --> 00:04:03.005
+of cars based on real view images.
+
+66
+00:04:03.005 --> 00:04:08.003
+However, if the number of relevant factors is larger
+
+67
+00:04:08.003 --> 00:04:10.008
+and the connections between inputs and outputs
+
+68
+00:04:10.008 --> 00:04:14.006
+more complex, for example, estimating the value
+
+69
+00:04:14.006 --> 00:04:20.001
+of a used car you'd need a much larger dataset.
+
+70
+00:04:20.001 --> 00:04:24.002
+Organizations with multiple units doing similar things
+
+71
+00:04:24.002 --> 00:04:26.009
+in different locations often fail
+
+72
+00:04:26.009 --> 00:04:30.005
+to centralize the collection of data.
+
+73
+00:04:30.005 --> 00:04:33.007
+This is a needlessly missed opportunity
+
+74
+00:04:33.007 --> 00:04:37.008
+to assemble a larger database.
+
+75
+00:04:37.008 --> 00:04:41.005
+Another important action is to standardize,
+
+76
+00:04:41.005 --> 00:04:44.000
+automate and centralize the collection
+
+77
+00:04:44.000 --> 00:04:48.001
+of data from every transaction.
+
+78
+00:04:48.001 --> 00:04:52.007
+Most importantly, organizations need proactive
+
+79
+00:04:52.007 --> 00:04:56.005
+operational protocols defining the what,
+
+80
+00:04:56.005 --> 00:05:02.001
+why, how, and who of data collection.
+
+81
+00:05:02.001 --> 00:05:04.008
+Now, consider two opportunities
+
+82
+00:05:04.008 --> 00:05:10.005
+in your organization to train and deploy AI models.
+
+83
+00:05:10.005 --> 00:05:12.008
+Analyze how you would construct
+
+84
+00:05:12.008 --> 00:05:17.004
+a robust data pipeline in each of these two contexts.
