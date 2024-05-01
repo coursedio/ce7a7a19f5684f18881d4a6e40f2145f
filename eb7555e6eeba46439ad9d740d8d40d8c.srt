@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:04.002
+- According to a global survey by McKinsey,
+
+2
+00:00:04.002 --> 00:00:09.002
+55% of all companies have already adopted AI
+
+3
+00:00:09.002 --> 00:00:12.007
+in one or more functions.
+
+4
+00:00:12.007 --> 00:00:18.001
+I predict this number to be above 80% by 2025.
+
+5
+00:00:18.001 --> 00:00:22.007
+It's hard to imagine any job staying untouched
+
+6
+00:00:22.007 --> 00:00:27.009
+by the direct or indirect effects of AI.
+
+7
+00:00:27.009 --> 00:00:30.005
+This prediction applies even to jobs
+
+8
+00:00:30.005 --> 00:00:34.002
+such as farmers and security guards.
+
+9
+00:00:34.002 --> 00:00:38.002
+The farmer will spend much more time operating drones
+
+10
+00:00:38.002 --> 00:00:41.003
+and AI-powered farming machinery
+
+11
+00:00:41.003 --> 00:00:44.009
+than physical work in the field.
+
+12
+00:00:44.009 --> 00:00:48.001
+And computer vision and biometric entry
+
+13
+00:00:48.001 --> 00:00:52.008
+will eliminate the need for many security guards.
+
+14
+00:00:52.008 --> 00:00:56.008
+AI will affect jobs in three ways.
+
+15
+00:00:56.008 --> 00:01:03.001
+One, it will augment and alter, but not eliminate some jobs.
+
+16
+00:01:03.001 --> 00:01:06.009
+Two, it will substitute for other jobs,
+
+17
+00:01:06.009 --> 00:01:09.004
+eliminating the need for them.
+
+18
+00:01:09.004 --> 00:01:13.008
+Three, it will create entirely new jobs,
+
+19
+00:01:13.008 --> 00:01:19.008
+sometimes entirely new industries that did not exist before.
+
+20
+00:01:19.008 --> 00:01:22.009
+This impact will be dynamic.
+
+21
+00:01:22.009 --> 00:01:25.005
+Some jobs being augmented today
+
+22
+00:01:25.005 --> 00:01:30.009
+may get substituted tomorrow, and we cannot fully imagine
+
+23
+00:01:30.009 --> 00:01:36.000
+what new jobs may get created five years from now.
+
+24
+00:01:36.000 --> 00:01:38.001
+School teachers are a good example
+
+25
+00:01:38.001 --> 00:01:41.008
+of AI's augmentation effect.
+
+26
+00:01:41.008 --> 00:01:46.005
+Given the cognitive and behavior complexities of this job,
+
+27
+00:01:46.005 --> 00:01:51.004
+it's hard to imagine AI reducing the need for teachers.
+
+28
+00:01:51.004 --> 00:01:55.003
+However, AI is already helping many teachers
+
+29
+00:01:55.003 --> 00:01:57.007
+become more effective.
+
+30
+00:01:57.007 --> 00:01:59.004
+Take high school.
+
+31
+00:01:59.004 --> 00:02:01.008
+Rather than mark up and suggest edits
+
+32
+00:02:01.008 --> 00:02:04.009
+to every student's writing assignment,
+
+33
+00:02:04.009 --> 00:02:07.001
+an English teacher can ask them
+
+34
+00:02:07.001 --> 00:02:12.006
+to use AI-powered software, such as Grammarly Premium.
+
+35
+00:02:12.006 --> 00:02:17.000
+The software can do the markup and suggest edits.
+
+36
+00:02:17.000 --> 00:02:20.008
+The teacher can then meet with each student
+
+37
+00:02:20.008 --> 00:02:23.008
+to review his or her common mistakes
+
+38
+00:02:23.008 --> 00:02:26.007
+and what the grammar should be.
+
+39
+00:02:26.007 --> 00:02:30.004
+This way, students can learn at a faster pace
+
+40
+00:02:30.004 --> 00:02:35.004
+and the teacher can spend more time with each student.
+
+41
+00:02:35.004 --> 00:02:39.008
+Similar software is already available for other courses,
+
+42
+00:02:39.008 --> 00:02:42.002
+such as math and physics,
+
+43
+00:02:42.002 --> 00:02:46.004
+or to learn entirely new languages.
+
+44
+00:02:46.004 --> 00:02:49.003
+Other jobs that AI is augmenting,
+
+45
+00:02:49.003 --> 00:02:52.004
+but would not replace anytime soon,
+
+46
+00:02:52.004 --> 00:02:56.002
+include nurses, doctors, hair stylists,
+
+47
+00:02:56.002 --> 00:02:59.008
+software engineers, creative professionals,
+
+48
+00:02:59.008 --> 00:03:02.000
+to name just a few.
+
+49
+00:03:02.000 --> 00:03:06.002
+These jobs are cognitively, behaviorally,
+
+50
+00:03:06.002 --> 00:03:12.001
+and/or physically too complex for today's AI.
+
+51
+00:03:12.001 --> 00:03:18.002
+Now, consider jobs at risk of elimination by AI.
+
+52
+00:03:18.002 --> 00:03:23.000
+Obvious examples include cashiers at checkout counters,
+
+53
+00:03:23.000 --> 00:03:26.000
+factory workers, and truck drivers.
+
+54
+00:03:26.000 --> 00:03:29.005
+In developed economies, self checkout
+
+55
+00:03:29.005 --> 00:03:34.000
+in grocery stores is already commonplace.
+
+56
+00:03:34.000 --> 00:03:39.002
+In factories, robots are taking over from workers.
+
+57
+00:03:39.002 --> 00:03:43.004
+And autonomous cars will do away with the need for drivers
+
+58
+00:03:43.004 --> 00:03:46.003
+sometime this decade.
+
+59
+00:03:46.003 --> 00:03:49.004
+According to the World Economic Forum,
+
+60
+00:03:49.004 --> 00:03:53.008
+15% of all jobs in retailing, manufacturing,
+
+61
+00:03:53.008 --> 00:03:59.004
+and transportation globally are at risk of elimination.
+
+62
+00:03:59.004 --> 00:04:04.001
+Business leaders should treat job elimination by AI
+
+63
+00:04:04.001 --> 00:04:08.003
+not merely as an opportunity to reduce costs,
+
+64
+00:04:08.003 --> 00:04:11.003
+but also as an opportunity to redeploy
+
+65
+00:04:11.003 --> 00:04:16.000
+the freed-up workforce towards expanding customer value.
+
+66
+00:04:16.000 --> 00:04:20.005
+For example, in retail stores, former cashiers
+
+67
+00:04:20.005 --> 00:04:24.008
+could be redeployed to other in-store opportunities,
+
+68
+00:04:24.008 --> 00:04:27.006
+such as helping customers find products
+
+69
+00:04:27.006 --> 00:04:31.006
+and even cross-selling or upselling.
+
+70
+00:04:31.006 --> 00:04:35.000
+Finally, let's look at how the rise of AI
+
+71
+00:04:35.000 --> 00:04:39.002
+is likely to create entirely new jobs.
+
+72
+00:04:39.002 --> 00:04:42.009
+While reducing the need for routinized jobs,
+
+73
+00:04:42.009 --> 00:04:46.002
+AI will increase the need for jobs
+
+74
+00:04:46.002 --> 00:04:50.008
+that require analyzing, planning, and deciding.
+
+75
+00:04:50.008 --> 00:04:53.006
+We will need fewer data entry clerks,
+
+76
+00:04:53.006 --> 00:04:57.002
+but more data analysts, fewer accountants,
+
+77
+00:04:57.002 --> 00:04:59.003
+but more financial advisors,
+
+78
+00:04:59.003 --> 00:05:01.003
+and fewer construction workers,
+
+79
+00:05:01.003 --> 00:05:04.008
+but more machinery operators.
+
+80
+00:05:04.008 --> 00:05:09.001
+The World Economic Forum projects that many of the new jobs
+
+81
+00:05:09.001 --> 00:05:11.005
+will emerge in what the forum calls
+
+82
+00:05:11.005 --> 00:05:14.008
+the care economy, the creator economy,
+
+83
+00:05:14.008 --> 00:05:17.007
+and the green economy.
+
+84
+00:05:17.007 --> 00:05:21.008
+Given the turbulence, as well as the opportunities ahead,
+
+85
+00:05:21.008 --> 00:05:25.002
+it is imperative for governments and companies
+
+86
+00:05:25.002 --> 00:05:28.006
+to increase investments in developing the skills
+
+87
+00:05:28.006 --> 00:05:33.000
+and knowledge that the new jobs of tomorrow will require.
