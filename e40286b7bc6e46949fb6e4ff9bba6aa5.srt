@@ -1,0 +1,373 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.004
+- We want you to visualize how AI
+
+2
+00:00:03.004 --> 00:00:08.000
+can create value for your company and your customers.
+
+3
+00:00:08.000 --> 00:00:10.008
+Let's look at some of the concrete ways
+
+4
+00:00:10.008 --> 00:00:14.002
+that Google, a company all of us interact with,
+
+5
+00:00:14.002 --> 00:00:19.001
+uses AI to create value for its customers.
+
+6
+00:00:19.001 --> 00:00:21.003
+Even among technology giants,
+
+7
+00:00:21.003 --> 00:00:24.002
+Google stands out as the leader,
+
+8
+00:00:24.002 --> 00:00:26.009
+both in developing the AI technology,
+
+9
+00:00:26.009 --> 00:00:28.009
+as well as deploying it
+
+10
+00:00:28.009 --> 00:00:33.004
+to power the diversity of its products and services.
+
+11
+00:00:33.004 --> 00:00:37.002
+Of the thousand different ways that Google deploys the AI,
+
+12
+00:00:37.002 --> 00:00:40.009
+from driverless cars to advertising to YouTube,
+
+13
+00:00:40.009 --> 00:00:46.000
+let me high three of their latest applications.
+
+14
+00:00:46.000 --> 00:00:50.005
+Let's start with search, Google's oldest service.
+
+15
+00:00:50.005 --> 00:00:52.009
+Google has long deployed AI
+
+16
+00:00:52.009 --> 00:00:56.003
+to make search more relevant to users.
+
+17
+00:00:56.003 --> 00:00:59.001
+Examples include Voice Search,
+
+18
+00:00:59.001 --> 00:01:03.004
+which enables users to pose queries via speech,
+
+19
+00:01:03.004 --> 00:01:07.000
+and RankBrain, which uses neural networks
+
+20
+00:01:07.000 --> 00:01:11.003
+to increase the relevance of search results.
+
+21
+00:01:11.003 --> 00:01:14.002
+The latest advance is MUM,
+
+22
+00:01:14.002 --> 00:01:17.007
+short form Multitask Unified Model,
+
+23
+00:01:17.007 --> 00:01:20.007
+which was showcased in mid-2021
+
+24
+00:01:20.007 --> 00:01:24.006
+and represents a step improvement.
+
+25
+00:01:24.006 --> 00:01:29.007
+MUM aims to integrate content and context
+
+26
+00:01:29.007 --> 00:01:33.005
+at a level not achieved so far.
+
+27
+00:01:33.005 --> 00:01:35.006
+Let's say you want to figure out
+
+28
+00:01:35.006 --> 00:01:38.005
+which school is best for your child.
+
+29
+00:01:38.005 --> 00:01:42.000
+The best answer would depend on deep knowledge
+
+30
+00:01:42.000 --> 00:01:44.004
+about your child, your family,
+
+31
+00:01:44.004 --> 00:01:46.009
+the school options available to you,
+
+32
+00:01:46.009 --> 00:01:50.008
+and the specific characteristics of each school.
+
+33
+00:01:50.008 --> 00:01:54.001
+In other word, the best answer requires
+
+34
+00:01:54.001 --> 00:01:59.006
+a deep integration of content and context.
+
+35
+00:01:59.006 --> 00:02:01.008
+Similar to this type of question,
+
+36
+00:02:01.008 --> 00:02:05.004
+MUM's mission is to help people meet
+
+37
+00:02:05.004 --> 00:02:09.003
+many of the fuzzy and complex information needs
+
+38
+00:02:09.003 --> 00:02:11.006
+in their daily lives.
+
+39
+00:02:11.006 --> 00:02:14.002
+The fewer the number of search queries
+
+40
+00:02:14.002 --> 00:02:17.006
+a user needs to make to come up with the best answer,
+
+41
+00:02:17.006 --> 00:02:21.007
+the better it is for him or her.
+
+42
+00:02:21.007 --> 00:02:27.001
+As another example, take Google's Pixel-branded smartphones.
+
+43
+00:02:27.001 --> 00:02:32.004
+In October, 2021, Google launched Pixel 6 and 6 Pro,
+
+44
+00:02:32.004 --> 00:02:34.004
+the latest models.
+
+45
+00:02:34.004 --> 00:02:35.009
+According to reviews,
+
+46
+00:02:35.009 --> 00:02:38.002
+these devices compete well
+
+47
+00:02:38.002 --> 00:02:41.000
+with the best from Apple and Samsung,
+
+48
+00:02:41.000 --> 00:02:44.003
+at significantly lower prices.
+
+49
+00:02:44.003 --> 00:02:46.004
+In some important ways,
+
+50
+00:02:46.004 --> 00:02:50.003
+they outdo them in terms of user benefits.
+
+51
+00:02:50.003 --> 00:02:53.006
+The differentiator in these smartphones
+
+52
+00:02:53.006 --> 00:02:57.002
+is the pervasive use of AI.
+
+53
+00:02:57.002 --> 00:03:01.009
+Pixel 6 runs on a custom-built tensor chip
+
+54
+00:03:01.009 --> 00:03:05.004
+designed to run multiple machine learning models
+
+55
+00:03:05.004 --> 00:03:10.004
+in the device itself instead of in the cloud.
+
+56
+00:03:10.004 --> 00:03:13.004
+As a result, everything in the device,
+
+57
+00:03:13.004 --> 00:03:16.004
+from audio quality to battery usage,
+
+58
+00:03:16.004 --> 00:03:20.008
+becomes smarter and the apps respond faster,
+
+59
+00:03:20.008 --> 00:03:23.003
+because information does not need to travel
+
+60
+00:03:23.003 --> 00:03:28.003
+back and forth between the device and the cloud.
+
+61
+00:03:28.003 --> 00:03:31.000
+A new Live Translate feature
+
+62
+00:03:31.000 --> 00:03:34.005
+enables the user to message back and forth
+
+63
+00:03:34.005 --> 00:03:37.007
+with real-life simultaneous translation
+
+64
+00:03:37.007 --> 00:03:41.004
+without opening a separate app.
+
+65
+00:03:41.004 --> 00:03:44.004
+And there is software that guides cameras
+
+66
+00:03:44.004 --> 00:03:47.008
+to determine the exposure and color balancing
+
+67
+00:03:47.008 --> 00:03:51.002
+much more accurately than any other device,
+
+68
+00:03:51.002 --> 00:03:54.003
+especially for people with darker skin,
+
+69
+00:03:54.003 --> 00:03:58.004
+a first ever feature in a smartphone.
+
+70
+00:03:58.004 --> 00:04:03.002
+Finally, look at Google's fora into drug discovery.
+
+71
+00:04:03.002 --> 00:04:07.007
+In late 2021, Google's parent, Alphabet,
+
+72
+00:04:07.007 --> 00:04:12.004
+launched a new company, Isomorphic Labs,
+
+73
+00:04:12.004 --> 00:04:16.008
+charged with using AI to discover new drugs,
+
+74
+00:04:16.008 --> 00:04:21.001
+Demis Hassabis, the Co-Founder and CEO of DeepMind,
+
+75
+00:04:21.001 --> 00:04:24.003
+a Google subsidiary and the company's spearhead
+
+76
+00:04:24.003 --> 00:04:31.008
+for AI research, will also serve as Isomorphic's CEO.
+
+77
+00:04:31.008 --> 00:04:33.008
+In addition to its own research,
+
+78
+00:04:33.008 --> 00:04:39.001
+Isomorphic will utilize DeepMind's AlphaFold technology,
+
+79
+00:04:39.001 --> 00:04:42.003
+which has already demonstrated the ability
+
+80
+00:04:42.003 --> 00:04:46.002
+to predict the structure of nearly every protein
+
+81
+00:04:46.002 --> 00:04:50.009
+in a human body with near perfect accuracy.
+
+82
+00:04:50.009 --> 00:04:53.004
+Isomorphic also announced
+
+83
+00:04:53.004 --> 00:04:57.002
+that while it will bring AI expertise to the table,
+
+84
+00:04:57.002 --> 00:05:01.004
+it will partner with pharma and biomedical companies
+
+85
+00:05:01.004 --> 00:05:04.007
+to assemble the complementary capabilities
+
+86
+00:05:04.007 --> 00:05:07.002
+needed to discover new treatments
+
+87
+00:05:07.002 --> 00:05:09.007
+and take them through clinical trials
+
+88
+00:05:09.007 --> 00:05:12.006
+and commercialization.
+
+89
+00:05:12.006 --> 00:05:17.005
+Now think about how you may be able to deploy AI
+
+90
+00:05:17.005 --> 00:05:20.000
+to make your products and services
+
+91
+00:05:20.000 --> 00:05:25.001
+more tailored to each customer's specific context,
+
+92
+00:05:25.001 --> 00:05:29.003
+to add new and better features to them,
+
+93
+00:05:29.003 --> 00:05:34.001
+and to develop entirely new products and services.
