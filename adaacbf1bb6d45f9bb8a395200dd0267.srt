@@ -1,0 +1,389 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:04.000
+- Supply chains of tomorrow must be designed
+
+2
+00:00:04.000 --> 00:00:07.005
+to respond to much greater uncertainty
+
+3
+00:00:07.005 --> 00:00:10.008
+than was true even 10 years back.
+
+4
+00:00:10.008 --> 00:00:13.007
+The numerous factors buffeting supply chains
+
+5
+00:00:13.007 --> 00:00:18.004
+include pandemics, demand volatility,
+
+6
+00:00:18.004 --> 00:00:22.003
+raw material disruptions, labor shortages,
+
+7
+00:00:22.003 --> 00:00:26.004
+geopolitical tensions, cyber attacks, terrorism
+
+8
+00:00:26.004 --> 00:00:30.006
+and more frequent extreme weather patterns.
+
+9
+00:00:30.006 --> 00:00:34.007
+As a result, in designing and managing supply chains,
+
+10
+00:00:34.007 --> 00:00:36.009
+the ability to recover quickly
+
+11
+00:00:36.009 --> 00:00:39.002
+from unexpected developments
+
+12
+00:00:39.002 --> 00:00:45.001
+has become as important as maximizing efficiency.
+
+13
+00:00:45.001 --> 00:00:50.003
+Every supply chain is a network of organizations.
+
+14
+00:00:50.003 --> 00:00:53.007
+Think about raw material mines, factories,
+
+15
+00:00:53.007 --> 00:00:58.002
+trucks, ships, trains, ports, warehouses.
+
+16
+00:00:58.002 --> 00:01:02.001
+All parts of a complex network.
+
+17
+00:01:02.001 --> 00:01:05.005
+How does one ensure that such a network
+
+18
+00:01:05.005 --> 00:01:07.006
+can be not only efficient
+
+19
+00:01:07.006 --> 00:01:11.008
+but also resilience and responsive?
+
+20
+00:01:11.008 --> 00:01:14.006
+The answer lies in ensuring
+
+21
+00:01:14.006 --> 00:01:19.004
+that the network exhibits the following properties.
+
+22
+00:01:19.004 --> 00:01:23.006
+One, end-to-end visibility.
+
+23
+00:01:23.006 --> 00:01:25.003
+Like control towers,
+
+24
+00:01:25.003 --> 00:01:29.008
+network managers must maximize visibility
+
+25
+00:01:29.008 --> 00:01:32.009
+into every node and every link,
+
+26
+00:01:32.009 --> 00:01:35.005
+as well as the external factors
+
+27
+00:01:35.005 --> 00:01:37.006
+that may cause turbulence
+
+28
+00:01:37.006 --> 00:01:40.008
+in these nodes and links.
+
+29
+00:01:40.008 --> 00:01:45.004
+Visibility helps ensure that unexpected changes anywhere
+
+30
+00:01:45.004 --> 00:01:49.002
+in the system get anticipated, recognized,
+
+31
+00:01:49.002 --> 00:01:54.002
+and if needed, acted upon with minimum delay.
+
+32
+00:01:54.002 --> 00:01:57.004
+Two, agility.
+
+33
+00:01:57.004 --> 00:02:00.001
+When unexpected changes do occur,
+
+34
+00:02:00.001 --> 00:02:02.003
+network managers must be able
+
+35
+00:02:02.003 --> 00:02:04.007
+to figure out the best response
+
+36
+00:02:04.007 --> 00:02:08.001
+and act on it rapidly.
+
+37
+00:02:08.001 --> 00:02:09.008
+To create such a network,
+
+38
+00:02:09.008 --> 00:02:12.001
+leading edges companies are starting
+
+39
+00:02:12.001 --> 00:02:16.003
+to build digital twins of their supply networks,
+
+40
+00:02:16.003 --> 00:02:19.006
+deploying AI to manage the digital twins
+
+41
+00:02:19.006 --> 00:02:26.001
+and using the output to augment their decisions and actions.
+
+42
+00:02:26.001 --> 00:02:29.006
+A digital twin refers to a simulation
+
+43
+00:02:29.006 --> 00:02:32.006
+of the physical network in a computer,
+
+44
+00:02:32.006 --> 00:02:37.001
+creating a replica that mirrors real-world objects
+
+45
+00:02:37.001 --> 00:02:40.003
+and the links between them.
+
+46
+00:02:40.003 --> 00:02:42.005
+The digital twin integrates
+
+47
+00:02:42.005 --> 00:02:45.002
+the company's internal private data,
+
+48
+00:02:45.002 --> 00:02:49.007
+including LT sensors with external public data,
+
+49
+00:02:49.007 --> 00:02:51.009
+such as satellite images,
+
+50
+00:02:51.009 --> 00:02:55.009
+weather predictions and political developments.
+
+51
+00:02:55.009 --> 00:02:59.006
+Let's say you have a supplier in Wenzhou, China.
+
+52
+00:02:59.006 --> 00:03:03.008
+The digital twin can automatically incorporate the risk
+
+53
+00:03:03.008 --> 00:03:05.007
+of an incoming hurricane,
+
+54
+00:03:05.007 --> 00:03:08.009
+something that will be hard of people to do
+
+55
+00:03:08.009 --> 00:03:11.009
+when dealing with dozens or even hundreds
+
+56
+00:03:11.009 --> 00:03:14.002
+of nodes and links.
+
+57
+00:03:14.002 --> 00:03:18.008
+In this manner, a digital twin can anticipate problems
+
+58
+00:03:18.008 --> 00:03:21.000
+before that happen.
+
+59
+00:03:21.000 --> 00:03:23.007
+It can also use AI to recommend
+
+60
+00:03:23.007 --> 00:03:29.002
+or even execute the optimal solution.
+
+61
+00:03:29.002 --> 00:03:33.004
+While simulating reality is not a new idea,
+
+62
+00:03:33.004 --> 00:03:37.003
+the value of AI models lies in their ability
+
+63
+00:03:37.003 --> 00:03:40.005
+to decipher nonlinear interactions
+
+64
+00:03:40.005 --> 00:03:42.002
+among very large
+
+65
+00:03:42.002 --> 00:03:45.004
+and constantly changing sets of data,
+
+66
+00:03:45.004 --> 00:03:48.009
+both structured and unstructured.
+
+67
+00:03:48.009 --> 00:03:50.009
+Similar to interactive games,
+
+68
+00:03:50.009 --> 00:03:52.009
+such as chess and Go,
+
+69
+00:03:52.009 --> 00:03:55.004
+reinforcement learning algorithms
+
+70
+00:03:55.004 --> 00:03:58.007
+train company-specific AI models
+
+71
+00:03:58.007 --> 00:04:02.000
+by playing millions of what-if games
+
+72
+00:04:02.000 --> 00:04:07.004
+on the multidimensional board of a digital twin.
+
+73
+00:04:07.004 --> 00:04:09.005
+Once the model has mastered
+
+74
+00:04:09.005 --> 00:04:11.008
+a particular supply chain network,
+
+75
+00:04:11.008 --> 00:04:16.006
+it springs into action when needed.
+
+76
+00:04:16.006 --> 00:04:18.005
+Let's say there's an accident
+
+77
+00:04:18.005 --> 00:04:21.006
+at a parts supplier in Malaysia.
+
+78
+00:04:21.006 --> 00:04:24.005
+The AI would not only alert you
+
+79
+00:04:24.005 --> 00:04:26.009
+but also suggest actions,
+
+80
+00:04:26.009 --> 00:04:29.008
+such as placing an immediate order
+
+81
+00:04:29.008 --> 00:04:32.000
+with a distributor in California
+
+82
+00:04:32.000 --> 00:04:35.008
+who happens to have inventory in stock.
+
+83
+00:04:35.008 --> 00:04:40.007
+AI models can deal with such complexity far better
+
+84
+00:04:40.007 --> 00:04:44.008
+than even the smartest supply chain managers.
+
+85
+00:04:44.008 --> 00:04:49.006
+They also keep retraining constantly.
+
+86
+00:04:49.006 --> 00:04:51.005
+Companies such as Amazon
+
+87
+00:04:51.005 --> 00:04:54.002
+have been using the digital twin concept
+
+88
+00:04:54.002 --> 00:04:58.004
+to manage their supply chains for some time.
+
+89
+00:04:58.004 --> 00:05:02.008
+Now tech providers, such as Google and NVIDIA
+
+90
+00:05:02.008 --> 00:05:08.006
+have started offering these capabilities to other companies.
+
+91
+00:05:08.006 --> 00:05:10.004
+Building on these ideas,
+
+92
+00:05:10.004 --> 00:05:15.006
+you may want to analyze your company's supply chain as well.
+
+93
+00:05:15.006 --> 00:05:18.002
+Who should be the members of a team
+
+94
+00:05:18.002 --> 00:05:21.003
+to assess how to build a digital twin
+
+95
+00:05:21.003 --> 00:05:23.007
+for your supply chain?
+
+96
+00:05:23.007 --> 00:05:27.003
+How many tiers upstream could you go
+
+97
+00:05:27.003 --> 00:05:31.009
+in building an excellent mirror of the physical reality?
