@@ -1,0 +1,353 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:03.000
+- Diversity is an innate feature
+
+2
+00:00:03.000 --> 00:00:07.006
+of all natural phenomena, including us humans.
+
+3
+00:00:07.006 --> 00:00:12.002
+We differ from each other by DNA, sex, race,
+
+4
+00:00:12.002 --> 00:00:16.000
+ethnicity, age, nationality,
+
+5
+00:00:16.000 --> 00:00:20.006
+socioeconomic status, family context, friendships,
+
+6
+00:00:20.006 --> 00:00:24.000
+life experiences, you name it.
+
+7
+00:00:24.000 --> 00:00:28.001
+For marketers, a direct implication of diversity
+
+8
+00:00:28.001 --> 00:00:32.003
+is that markets are segmented and that companies
+
+9
+00:00:32.003 --> 00:00:35.007
+should aim to develop tailored strategies
+
+10
+00:00:35.007 --> 00:00:38.002
+for different segments.
+
+11
+00:00:38.002 --> 00:00:42.005
+Marketers have long faced two major hurdles
+
+12
+00:00:42.005 --> 00:00:46.001
+in implementing good segmentation strategies.
+
+13
+00:00:46.001 --> 00:00:49.009
+One, lack of rich data on buyers.
+
+14
+00:00:49.009 --> 00:00:54.007
+Two, very high cost of customization.
+
+15
+00:00:54.007 --> 00:00:57.009
+Developments in information and production technologies
+
+16
+00:00:57.009 --> 00:01:01.004
+have enabled companies to overcome these hurdles
+
+17
+00:01:01.004 --> 00:01:03.004
+to some extent.
+
+18
+00:01:03.004 --> 00:01:09.001
+Today, the rise of AI is pushing the envelope much further
+
+19
+00:01:09.001 --> 00:01:13.004
+towards hyper-segmentation, whereby each buyer
+
+20
+00:01:13.004 --> 00:01:18.007
+and each user could eventually become a segment of one.
+
+21
+00:01:18.007 --> 00:01:21.001
+Let's see how.
+
+22
+00:01:21.001 --> 00:01:25.004
+The majority of adults now have an online presence.
+
+23
+00:01:25.004 --> 00:01:30.001
+While some data is private, much of it is public.
+
+24
+00:01:30.001 --> 00:01:33.001
+Also, companies always have data
+
+25
+00:01:33.001 --> 00:01:37.001
+on every customer they have interacted with.
+
+26
+00:01:37.001 --> 00:01:40.008
+Combining internal with external data
+
+27
+00:01:40.008 --> 00:01:44.006
+can give marketers far richer insights
+
+28
+00:01:44.006 --> 00:01:49.003
+into the peculiarities of every single buyer.
+
+29
+00:01:49.003 --> 00:01:52.002
+Unsupervised machine learning algorithms,
+
+30
+00:01:52.002 --> 00:01:56.006
+such as k-means clustering, can parse us through
+
+31
+00:01:56.006 --> 00:02:01.002
+this large, growing and constantly changing database
+
+32
+00:02:01.002 --> 00:02:06.008
+more precisely than traditional statistical measures.
+
+33
+00:02:06.008 --> 00:02:10.009
+This is how AI-savvy banks and insurers
+
+34
+00:02:10.009 --> 00:02:15.007
+can develop a finely tailored risk profile of each customer,
+
+35
+00:02:15.007 --> 00:02:19.001
+even in those cases where the customer may have
+
+36
+00:02:19.001 --> 00:02:22.007
+no credit history and no hard assets,
+
+37
+00:02:22.007 --> 00:02:25.009
+but does have a social media presence
+
+38
+00:02:25.009 --> 00:02:29.001
+and a network of contacts.
+
+39
+00:02:29.001 --> 00:02:32.008
+This analysis can enable the bank or the insurer
+
+40
+00:02:32.008 --> 00:02:36.006
+to offer interest rates or insurance premium
+
+41
+00:02:36.006 --> 00:02:40.007
+that are more precisely and more richly informed
+
+42
+00:02:40.007 --> 00:02:44.005
+than those from competitors.
+
+43
+00:02:44.005 --> 00:02:48.002
+AI can also help develop more finely-tailored
+
+44
+00:02:48.002 --> 00:02:52.006
+marketing campaigns, delivering the right message
+
+45
+00:02:52.006 --> 00:02:54.005
+to the right target audience
+
+46
+00:02:54.005 --> 00:02:58.007
+via the right channels at the right time.
+
+47
+00:02:58.007 --> 00:03:02.006
+Each time you search for something on Google or Amazon,
+
+48
+00:03:02.006 --> 00:03:06.002
+the company learns a bit more about what you want
+
+49
+00:03:06.002 --> 00:03:09.007
+right now in real time.
+
+50
+00:03:09.007 --> 00:03:12.007
+This data goes immediately to work,
+
+51
+00:03:12.007 --> 00:03:17.000
+sending you tailored messages that have proved effective
+
+52
+00:03:17.000 --> 00:03:19.005
+with people most similar to you
+
+53
+00:03:19.005 --> 00:03:22.005
+along a broad array of factors.
+
+54
+00:03:22.005 --> 00:03:24.004
+The likely outcome?
+
+55
+00:03:24.004 --> 00:03:29.003
+Lower cost of customer acquisition.
+
+56
+00:03:29.003 --> 00:03:32.006
+Marketers can also deploy AI's trial
+
+57
+00:03:32.006 --> 00:03:35.007
+and error learning approach.
+
+58
+00:03:35.007 --> 00:03:38.000
+Let's say the goal is to decode
+
+59
+00:03:38.000 --> 00:03:41.008
+what combination of headline, image, copy,
+
+60
+00:03:41.008 --> 00:03:44.007
+colors, and time of delivery of an ad
+
+61
+00:03:44.007 --> 00:03:49.000
+would be most effective for each viewer.
+
+62
+00:03:49.000 --> 00:03:52.005
+Based on past data, the algorithm could begin
+
+63
+00:03:52.005 --> 00:03:55.005
+by serving viewers different combinations
+
+64
+00:03:55.005 --> 00:03:59.000
+with a high probability of success.
+
+65
+00:03:59.000 --> 00:04:01.009
+It would then learn by looking at
+
+66
+00:04:01.009 --> 00:04:05.005
+who clicks on which combination.
+
+67
+00:04:05.005 --> 00:04:07.006
+Through further iterations,
+
+68
+00:04:07.006 --> 00:04:10.008
+it would have refined the segmentation
+
+69
+00:04:10.008 --> 00:04:14.002
+as well as become smarter at serving
+
+70
+00:04:14.002 --> 00:04:21.006
+even more customized messages and formats for each viewer.
+
+71
+00:04:21.006 --> 00:04:25.006
+The root cause behind much of the waste in marketing budgets
+
+72
+00:04:25.006 --> 00:04:29.007
+is knowing only partially or not at all
+
+73
+00:04:29.007 --> 00:04:33.001
+what products or service a potential customer
+
+74
+00:04:33.001 --> 00:04:35.006
+may be ready to buy,
+
+75
+00:04:35.006 --> 00:04:38.009
+or if they are already inclined to buy something,
+
+76
+00:04:38.009 --> 00:04:44.000
+how to upsell and what to cross-sell.
+
+77
+00:04:44.000 --> 00:04:47.009
+Deploying AI to generate deeper insights
+
+78
+00:04:47.009 --> 00:04:52.000
+into each unique buyer and buying context
+
+79
+00:04:52.000 --> 00:04:55.001
+can significantly increase the return
+
+80
+00:04:55.001 --> 00:04:59.004
+on marketing expenditures.
+
+81
+00:04:59.004 --> 00:05:01.002
+Building on these ideas,
+
+82
+00:05:01.002 --> 00:05:05.001
+you may like to pursue three questions.
+
+83
+00:05:05.001 --> 00:05:10.007
+First, what data about your actual and potential customers
+
+84
+00:05:10.007 --> 00:05:14.004
+do you already have within the company?
+
+85
+00:05:14.004 --> 00:05:18.002
+Second, what data exists externally,
+
+86
+00:05:18.002 --> 00:05:21.003
+but is currently untapped?
+
+87
+00:05:21.003 --> 00:05:27.001
+Third, how might AI be deployed to parse through this data
+
+88
+00:05:27.001 --> 00:05:31.009
+to enable better segmentation strategies for your company?
