@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:04.002
+- Assume that you work for a nationwide
+
+2
+00:00:04.002 --> 00:00:07.004
+used vehicle retailer and want to train
+
+3
+00:00:07.004 --> 00:00:11.000
+an ML model to take the guesswork
+
+4
+00:00:11.000 --> 00:00:15.000
+out of estimating the market value of used cars.
+
+5
+00:00:15.000 --> 00:00:17.003
+How do you go about it?
+
+6
+00:00:17.003 --> 00:00:18.006
+As the first step,
+
+7
+00:00:18.006 --> 00:00:22.003
+you need to assemble a robust data set
+
+8
+00:00:22.003 --> 00:00:26.005
+containing relevant data on recent transactions
+
+9
+00:00:26.005 --> 00:00:29.009
+in several thousand used cars.
+
+10
+00:00:29.009 --> 00:00:31.006
+Let's say you have good data
+
+11
+00:00:31.006 --> 00:00:34.008
+on close to 10,000 cars.
+
+12
+00:00:34.008 --> 00:00:36.005
+For each transaction,
+
+13
+00:00:36.005 --> 00:00:39.004
+Your database should include data
+
+14
+00:00:39.004 --> 00:00:43.001
+on the output variable that is sales price
+
+15
+00:00:43.001 --> 00:00:45.009
+and a number of input features.
+
+16
+00:00:45.009 --> 00:00:49.004
+For each car, the features might include
+
+17
+00:00:49.004 --> 00:00:54.001
+make and model, launch year, mileage, color,
+
+18
+00:00:54.001 --> 00:00:57.002
+secondary options, such as type of seat,
+
+19
+00:00:57.002 --> 00:00:59.009
+entertainment system, et cetera,
+
+20
+00:00:59.009 --> 00:01:02.008
+exterior and interior condition,
+
+21
+00:01:02.008 --> 00:01:07.002
+repair history, accident history, and so forth.
+
+22
+00:01:07.002 --> 00:01:10.005
+You would then get the data cleaned up
+
+23
+00:01:10.005 --> 00:01:12.008
+and the various labels and formats
+
+24
+00:01:12.008 --> 00:01:17.006
+standardized across all transactions.
+
+25
+00:01:17.006 --> 00:01:20.004
+Since you already have an answer key
+
+26
+00:01:20.004 --> 00:01:22.006
+in your training data set,
+
+27
+00:01:22.006 --> 00:01:24.009
+that is, for each car,
+
+28
+00:01:24.009 --> 00:01:29.005
+values of input features and the resulting sales price.
+
+29
+00:01:29.005 --> 00:01:32.000
+It is clear that this context
+
+30
+00:01:32.000 --> 00:01:35.009
+requires a supervised learning algorithm.
+
+31
+00:01:35.009 --> 00:01:38.006
+It would generally be wise for you
+
+32
+00:01:38.006 --> 00:01:41.009
+to pick a few different but pertinent
+
+33
+00:01:41.009 --> 00:01:44.008
+supervised learning algorithms.
+
+34
+00:01:44.008 --> 00:01:48.006
+Train an ML model on each algorithm
+
+35
+00:01:48.006 --> 00:01:52.008
+and then pick the algorithm that beats others
+
+36
+00:01:52.008 --> 00:01:57.005
+in yielding the best model.
+
+37
+00:01:57.005 --> 00:02:00.002
+The next step is to specify
+
+38
+00:02:00.002 --> 00:02:05.005
+several hyper parameters for each algorithm.
+
+39
+00:02:05.005 --> 00:02:10.001
+These attributes that are specified ex ante
+
+40
+00:02:10.001 --> 00:02:15.003
+to guide the algorithm in carrying out the training task.
+
+41
+00:02:15.003 --> 00:02:19.003
+Some of the critical hyper parameters include
+
+42
+00:02:19.003 --> 00:02:21.005
+a measure of model performance,
+
+43
+00:02:21.005 --> 00:02:24.000
+also called the loss function.
+
+44
+00:02:24.000 --> 00:02:27.005
+That is how accurately the model estimates
+
+45
+00:02:27.005 --> 00:02:33.002
+sales prices when compared with actual sales prices.
+
+46
+00:02:33.002 --> 00:02:36.003
+How the data set should be split
+
+47
+00:02:36.003 --> 00:02:39.006
+between a training set, a validation set,
+
+48
+00:02:39.006 --> 00:02:41.006
+and a test set.
+
+49
+00:02:41.006 --> 00:02:44.009
+Training set refers to data used
+
+50
+00:02:44.009 --> 00:02:48.003
+for training the machine learning model.
+
+51
+00:02:48.003 --> 00:02:51.002
+Validation set refers to data
+
+52
+00:02:51.002 --> 00:02:53.005
+used for measuring the performance
+
+53
+00:02:53.005 --> 00:02:56.004
+of a trained model and to decide
+
+54
+00:02:56.004 --> 00:03:00.004
+how to fine tune the hyper parameters
+
+55
+00:03:00.004 --> 00:03:04.000
+before running the retraining again.
+
+56
+00:03:04.000 --> 00:03:07.009
+Finally, test set refers to data
+
+57
+00:03:07.009 --> 00:03:12.000
+used to measure and compare the accuracy
+
+58
+00:03:12.000 --> 00:03:14.006
+of the best trained ML model
+
+59
+00:03:14.006 --> 00:03:20.005
+yielded by each of the different algorithms.
+
+60
+00:03:20.005 --> 00:03:25.000
+The number of epochs, that is the number of times
+
+61
+00:03:25.000 --> 00:03:28.000
+you want the entire training set
+
+62
+00:03:28.000 --> 00:03:31.004
+to go through the ringer to improve the accuracy
+
+63
+00:03:31.004 --> 00:03:34.000
+of the ML model being trained
+
+64
+00:03:34.000 --> 00:03:37.009
+for that particular algorithm.
+
+65
+00:03:37.009 --> 00:03:42.000
+Within each epoch, there often will be a number
+
+66
+00:03:42.000 --> 00:03:45.007
+of iterations each using a smaller batch
+
+67
+00:03:45.007 --> 00:03:48.002
+from the larger training set.
+
+68
+00:03:48.002 --> 00:03:51.002
+Specify the number of iterations
+
+69
+00:03:51.002 --> 00:03:56.006
+and the batch size for each iteration.
+
+70
+00:03:56.006 --> 00:04:00.003
+The number of hidden layers in the neural network.
+
+71
+00:04:00.003 --> 00:04:04.000
+Hidden layers increase the model's ability
+
+72
+00:04:04.000 --> 00:04:07.002
+to look for complex interrelationships
+
+73
+00:04:07.002 --> 00:04:09.008
+among the various input features
+
+74
+00:04:09.008 --> 00:04:13.006
+that determine the output value.
+
+75
+00:04:13.006 --> 00:04:16.004
+It's the multiplicity of hidden layers
+
+76
+00:04:16.004 --> 00:04:20.002
+that differentiates deep neural networks
+
+77
+00:04:20.002 --> 00:04:24.007
+from shallow neural networks.
+
+78
+00:04:24.007 --> 00:04:28.003
+Once the hyper parameters are specified,
+
+79
+00:04:28.003 --> 00:04:33.002
+you let each algorithm train its ML model.
+
+80
+00:04:33.002 --> 00:04:35.005
+After each round of training,
+
+81
+00:04:35.005 --> 00:04:37.008
+you would use the validation data
+
+82
+00:04:37.008 --> 00:04:40.003
+to measure the accuracy of the model
+
+83
+00:04:40.003 --> 00:04:43.005
+and then fine tune the hyper parameters,
+
+84
+00:04:43.005 --> 00:04:47.005
+redo the training, measure the accuracy again,
+
+85
+00:04:47.005 --> 00:04:51.000
+and repeat the process until you feel
+
+86
+00:04:51.000 --> 00:04:56.005
+that you have the best possible model for this algorithm.
+
+87
+00:04:56.005 --> 00:05:01.003
+You should thus end up with the best trained ML model
+
+88
+00:05:01.003 --> 00:05:05.001
+from each of the different algorithms.
+
+89
+00:05:05.001 --> 00:05:08.000
+You would then assess and compare
+
+90
+00:05:08.000 --> 00:05:11.007
+the performance of these best models
+
+91
+00:05:11.007 --> 00:05:14.002
+using the test set.
+
+92
+00:05:14.002 --> 00:05:17.002
+After this, you would know which is the best
+
+93
+00:05:17.002 --> 00:05:22.007
+of the best model and thus, the best algorithm.
+
+94
+00:05:22.007 --> 00:05:25.008
+The final step is to decide
+
+95
+00:05:25.008 --> 00:05:29.008
+whether even the best ML model is good enough
+
+96
+00:05:29.008 --> 00:05:32.007
+when compared with human judgment.
+
+97
+00:05:32.007 --> 00:05:35.009
+If it's better, you may make this
+
+98
+00:05:35.009 --> 00:05:39.002
+your primary valuation tool.
+
+99
+00:05:39.002 --> 00:05:41.006
+If it's good enough, but not better,
+
+100
+00:05:41.006 --> 00:05:45.005
+you may use it to augment human judgment.
+
+101
+00:05:45.005 --> 00:05:48.008
+But if it's much worse, you may shelve it
+
+102
+00:05:48.008 --> 00:05:53.006
+until better data or better algorithms become available.
