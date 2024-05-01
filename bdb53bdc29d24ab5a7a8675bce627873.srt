@@ -1,0 +1,377 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:04.005
+- When AI models are trained on historical data,
+
+2
+00:00:04.005 --> 00:00:06.005
+containing answer keys,
+
+3
+00:00:06.005 --> 00:00:08.001
+there is serious risk
+
+4
+00:00:08.001 --> 00:00:10.000
+that deploying such a model
+
+5
+00:00:10.000 --> 00:00:14.006
+can perpetrate and even amplify past biases.
+
+6
+00:00:14.006 --> 00:00:18.002
+This is not an issue if the AI model is being trained
+
+7
+00:00:18.002 --> 00:00:20.004
+to recognize cats in pictures
+
+8
+00:00:20.004 --> 00:00:23.004
+or detect cancer in MRI scans.
+
+9
+00:00:23.004 --> 00:00:26.004
+However, if the model is being trained
+
+10
+00:00:26.004 --> 00:00:28.006
+to screen job applicants,
+
+11
+00:00:28.006 --> 00:00:30.007
+assess mortgage applicants
+
+12
+00:00:30.007 --> 00:00:34.001
+or decide who to release on parole,
+
+13
+00:00:34.001 --> 00:00:39.009
+AI models can suffer from embedded historical biases.
+
+14
+00:00:39.009 --> 00:00:44.003
+To illustrate, an August 2021 study found
+
+15
+00:00:44.003 --> 00:00:48.005
+that in the US, lenders using AI models
+
+16
+00:00:48.005 --> 00:00:53.002
+were 80% more likely to reject Black applicants
+
+17
+00:00:53.002 --> 00:00:57.001
+than similar White applicants.
+
+18
+00:00:57.001 --> 00:00:59.004
+Engineers training AI models
+
+19
+00:00:59.004 --> 00:01:03.004
+and people from the business side working with them
+
+20
+00:01:03.004 --> 00:01:06.003
+can adopt a number of measures
+
+21
+00:01:06.003 --> 00:01:11.005
+to reduce the risk of perpetuating historical biases.
+
+22
+00:01:11.005 --> 00:01:15.007
+I illustrate some of these here.
+
+23
+00:01:15.007 --> 00:01:18.008
+First, look at the dataset
+
+24
+00:01:18.008 --> 00:01:22.003
+to be used for training an AI model.
+
+25
+00:01:22.003 --> 00:01:27.006
+If it contains too few cases of a population segment,
+
+26
+00:01:27.006 --> 00:01:31.000
+the model's overall accuracy can be high,
+
+27
+00:01:31.000 --> 00:01:33.001
+even though its accuracy
+
+28
+00:01:33.001 --> 00:01:35.006
+for the particular population segment
+
+29
+00:01:35.006 --> 00:01:38.000
+is extremely low.
+
+30
+00:01:38.000 --> 00:01:42.002
+This is why face recognition systems in the US
+
+31
+00:01:42.002 --> 00:01:44.004
+have tended to perform poorly
+
+32
+00:01:44.004 --> 00:01:50.001
+with Black faces, especially those of Black women.
+
+33
+00:01:50.001 --> 00:01:54.006
+Since most developers are White or Asian males,
+
+34
+00:01:54.006 --> 00:01:56.008
+they have tended to be oblivious
+
+35
+00:01:56.008 --> 00:02:00.001
+to the potential for such bias.
+
+36
+00:02:00.001 --> 00:02:03.005
+Imagine the risk faced by Black people
+
+37
+00:02:03.005 --> 00:02:07.000
+when stopped by police who use such systems
+
+38
+00:02:07.000 --> 00:02:09.008
+to check their faces against those
+
+39
+00:02:09.008 --> 00:02:13.004
+of suspected criminals.
+
+40
+00:02:13.004 --> 00:02:16.003
+The way to counter such risk
+
+41
+00:02:16.003 --> 00:02:19.006
+is to assemble the dataset in such a way
+
+42
+00:02:19.006 --> 00:02:21.008
+that it contains large numbers
+
+43
+00:02:21.008 --> 00:02:26.002
+of cases for every relevant population segment,
+
+44
+00:02:26.002 --> 00:02:29.004
+especially those at possible risk
+
+45
+00:02:29.004 --> 00:02:32.004
+of AI-driven biases.
+
+46
+00:02:32.004 --> 00:02:35.005
+Second, use technical fixes
+
+47
+00:02:35.005 --> 00:02:39.005
+to reduce bias in the AI models.
+
+48
+00:02:39.005 --> 00:02:43.009
+One such approach is adversarial de-biasing,
+
+49
+00:02:43.009 --> 00:02:49.009
+which uses one AI model to reduce bias in another.
+
+50
+00:02:49.009 --> 00:02:55.003
+Assume that race is the most likely bias-inducing attribute
+
+51
+00:02:55.003 --> 00:03:01.002
+an AI model recommends against a particular applicant.
+
+52
+00:03:01.002 --> 00:03:02.008
+The second AI model
+
+53
+00:03:02.008 --> 00:03:06.000
+would take the output of the first model
+
+54
+00:03:06.000 --> 00:03:11.003
+and try to guess based on all attributes other than race
+
+55
+00:03:11.003 --> 00:03:13.003
+the applicant's race.
+
+56
+00:03:13.003 --> 00:03:15.001
+If it can do so correctly,
+
+57
+00:03:15.001 --> 00:03:17.005
+more often than by chance,
+
+58
+00:03:17.005 --> 00:03:19.002
+then the first model would need
+
+59
+00:03:19.002 --> 00:03:22.006
+to be retuned and the process repeated
+
+60
+00:03:22.006 --> 00:03:24.004
+until the second model
+
+61
+00:03:24.004 --> 00:03:29.004
+can no longer identify the applicant's race.
+
+62
+00:03:29.004 --> 00:03:33.000
+Third, conduct fairness audits
+
+63
+00:03:33.000 --> 00:03:38.000
+before an AI model is released for general use.
+
+64
+00:03:38.000 --> 00:03:41.000
+There are multiple ways to do so.
+
+65
+00:03:41.000 --> 00:03:44.003
+One approach is to use two random subsets
+
+66
+00:03:44.003 --> 00:03:46.007
+of the historical data.
+
+67
+00:03:46.007 --> 00:03:50.005
+In one subset, mask all sensitive attributes,
+
+68
+00:03:50.005 --> 00:03:56.001
+for example, by coding every applicant as a white male.
+
+69
+00:03:56.001 --> 00:03:59.008
+If the AI model deals similar predictions
+
+70
+00:03:59.008 --> 00:04:02.004
+across the two data subsets,
+
+71
+00:04:02.004 --> 00:04:05.005
+then it can be deemed bias free.
+
+72
+00:04:05.005 --> 00:04:09.002
+Otherwise, you need back to square one measures
+
+73
+00:04:09.002 --> 00:04:11.009
+to mitigate bias.
+
+74
+00:04:11.009 --> 00:04:15.004
+At a broader organizational and societal level,
+
+75
+00:04:15.004 --> 00:04:17.005
+measures to reduce the risks
+
+76
+00:04:17.005 --> 00:04:23.005
+of algorithmic bias include a diverse AI talent pool
+
+77
+00:04:23.005 --> 00:04:27.003
+so that the developers are sensitive to the risks
+
+78
+00:04:27.003 --> 00:04:29.006
+of AI bias.
+
+79
+00:04:29.006 --> 00:04:31.009
+Mandatory AI ethics courses
+
+80
+00:04:31.009 --> 00:04:35.004
+in engineering and computer science programs.
+
+81
+00:04:35.004 --> 00:04:40.004
+And even regulatory actions by policymakers.
+
+82
+00:04:40.004 --> 00:04:43.005
+The European Union is one such government
+
+83
+00:04:43.005 --> 00:04:47.002
+actively contemplating regulatory actions,
+
+84
+00:04:47.002 --> 00:04:50.001
+especially in use contexts
+
+85
+00:04:50.001 --> 00:04:53.004
+where the harm caused by biased AI models
+
+86
+00:04:53.004 --> 00:04:56.001
+is likely to be high.
+
+87
+00:04:56.001 --> 00:04:58.002
+For your own organization,
+
+88
+00:04:58.002 --> 00:05:00.005
+I suggest two assignments.
+
+89
+00:05:00.005 --> 00:05:05.005
+First, take an existing AI model in use.
+
+90
+00:05:05.005 --> 00:05:11.001
+How would you conduct a fairness audit on this model?
+
+91
+00:05:11.001 --> 00:05:16.000
+Second, consider the most likely new deployment
+
+92
+00:05:16.000 --> 00:05:18.006
+of AI within the company.
+
+93
+00:05:18.006 --> 00:05:20.006
+How would you ensure
+
+94
+00:05:20.006 --> 00:05:24.004
+that the new AI model would be biased free?
