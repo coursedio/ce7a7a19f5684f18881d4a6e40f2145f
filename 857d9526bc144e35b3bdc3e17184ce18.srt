@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.001
+- Three major elements
+
+2
+00:00:02.001 --> 00:00:06.001
+of any company's internal operations are designing
+
+3
+00:00:06.001 --> 00:00:09.003
+and building the factory or service center,
+
+4
+00:00:09.003 --> 00:00:13.000
+day-to-day operations and quality control.
+
+5
+00:00:13.000 --> 00:00:19.006
+Using concrete examples from BMW, DoorDash and Landing.AI,
+
+6
+00:00:19.006 --> 00:00:23.005
+let's look at how these companies are deploying AI
+
+7
+00:00:23.005 --> 00:00:26.009
+across the three domains.
+
+8
+00:00:26.009 --> 00:00:30.001
+BMW is partnering with NVIDIA
+
+9
+00:00:30.001 --> 00:00:34.006
+to use AI for designing a new drive trained factory.
+
+10
+00:00:34.006 --> 00:00:39.001
+The partners have deployed NVIDIA'S Omniverse software
+
+11
+00:00:39.001 --> 00:00:42.008
+to create a digital twin of the entire factory,
+
+12
+00:00:42.008 --> 00:00:47.001
+enabling managers to see in photorealistic detail
+
+13
+00:00:47.001 --> 00:00:50.005
+how the factory will look and operate.
+
+14
+00:00:50.005 --> 00:00:54.003
+The virtual factory shows all machine tools and workers
+
+15
+00:00:54.003 --> 00:00:57.004
+exactly where they will be stationed.
+
+16
+00:00:57.004 --> 00:01:01.004
+As virtual parts move through the virtual factory,
+
+17
+00:01:01.004 --> 00:01:04.002
+the software even takes into account
+
+18
+00:01:04.002 --> 00:01:10.001
+the effects of gravity, material type and workers tools.
+
+19
+00:01:10.001 --> 00:01:14.008
+While factory builders have used simulations for many years,
+
+20
+00:01:14.008 --> 00:01:20.005
+today's digital twins, like BMWs, are radically different
+
+21
+00:01:20.005 --> 00:01:24.008
+in terms of the number of factors they incorporate.
+
+22
+00:01:24.008 --> 00:01:28.007
+This richness of inputs enables engineers
+
+23
+00:01:28.007 --> 00:01:32.006
+to simulate the actual working of the factory
+
+24
+00:01:32.006 --> 00:01:35.009
+at a level much closer to reality.
+
+25
+00:01:35.009 --> 00:01:42.000
+And many of today's AI algorithms simply did not exist,
+
+26
+00:01:42.000 --> 00:01:44.005
+even 15 years back.
+
+27
+00:01:44.005 --> 00:01:48.009
+As these algorithms run through millions of cycles
+
+28
+00:01:48.009 --> 00:01:51.000
+to gather training data,
+
+29
+00:01:51.000 --> 00:01:55.000
+they help the engineers understand what's suboptimal
+
+30
+00:01:55.000 --> 00:02:00.000
+and how they might tweak the overall factory design.
+
+31
+00:02:00.000 --> 00:02:06.003
+DoorDash showcases the use of AI in day-to-day operations.
+
+32
+00:02:06.003 --> 00:02:08.008
+DoorDash is a logistics company
+
+33
+00:02:08.008 --> 00:02:13.001
+that enables customers to order and get goods delivered
+
+34
+00:02:13.001 --> 00:02:15.003
+from local merchants.
+
+35
+00:02:15.003 --> 00:02:19.002
+To use DoorDash to order from say a restaurant,
+
+36
+00:02:19.002 --> 00:02:21.009
+you log in and choose the restaurant.
+
+37
+00:02:21.009 --> 00:02:26.000
+Once you pick what you want, DoorDash shows you the bill
+
+38
+00:02:26.000 --> 00:02:28.007
+and the estimated delivery time.
+
+39
+00:02:28.007 --> 00:02:31.006
+You check out and wait.
+
+40
+00:02:31.006 --> 00:02:35.008
+How does DoorDash predict the delivery time?
+
+41
+00:02:35.008 --> 00:02:39.005
+The company uses a supervised learning algorithm
+
+42
+00:02:39.005 --> 00:02:42.003
+to train its ML model.
+
+43
+00:02:42.003 --> 00:02:47.005
+Historical training data include the actual delivery time,
+
+44
+00:02:47.005 --> 00:02:51.004
+as well as input details pertaining to each order,
+
+45
+00:02:51.004 --> 00:02:55.008
+the merchant, a timestamp, as well as details
+
+46
+00:02:55.008 --> 00:02:57.004
+pertaining to the neighborhood
+
+47
+00:02:57.004 --> 00:03:00.004
+such as number of outstanding orders,
+
+48
+00:03:00.004 --> 00:03:03.008
+number of available couriers, day of the week,
+
+49
+00:03:03.008 --> 00:03:06.008
+holiday or not, et cetera.
+
+50
+00:03:06.008 --> 00:03:11.009
+As new data emerges, the model gets retrained regularly.
+
+51
+00:03:11.009 --> 00:03:16.000
+The goal is to be accurate to the last minute.
+
+52
+00:03:16.000 --> 00:03:19.004
+Overshoot and customers may not order.
+
+53
+00:03:19.004 --> 00:03:22.008
+Undershoot and they may get angry.
+
+54
+00:03:22.008 --> 00:03:26.008
+Behind the scenes, AI also plays a role
+
+55
+00:03:26.008 --> 00:03:29.008
+in DoorDash's logistics engine,
+
+56
+00:03:29.008 --> 00:03:32.007
+balancing supply and demand of couriers,
+
+57
+00:03:32.007 --> 00:03:36.003
+planning optimal routes with changing traffic patterns
+
+58
+00:03:36.003 --> 00:03:38.007
+and matching couriers to merchants
+
+59
+00:03:38.007 --> 00:03:41.002
+and customers in real time,
+
+60
+00:03:41.002 --> 00:03:46.000
+picking the optimal solution from millions of combinations.
+
+61
+00:03:46.000 --> 00:03:49.005
+Finally, Landing.AI
+
+62
+00:03:49.005 --> 00:03:54.003
+illustrates the use of AI for quality control.
+
+63
+00:03:54.003 --> 00:03:57.008
+Founded by Stanford's professor Andrew Ng,
+
+64
+00:03:57.008 --> 00:04:03.001
+this company helps clients manage their internal operations.
+
+65
+00:04:03.001 --> 00:04:05.009
+One such client is a steel company
+
+66
+00:04:05.009 --> 00:04:11.002
+that must routinely test for defects in steel sheets.
+
+67
+00:04:11.002 --> 00:04:13.001
+Defects can be problematic
+
+68
+00:04:13.001 --> 00:04:17.000
+in terms of aesthetics, functionality or both.
+
+69
+00:04:17.000 --> 00:04:20.005
+However, this is not true of all defects.
+
+70
+00:04:20.005 --> 00:04:25.003
+So the key challenge is not merely to identify a defect
+
+71
+00:04:25.003 --> 00:04:29.008
+but to figure out which is problematic and which not.
+
+72
+00:04:29.008 --> 00:04:34.002
+For AI, this is a supervised learning problem.
+
+73
+00:04:34.002 --> 00:04:36.005
+To train the ML model,
+
+74
+00:04:36.005 --> 00:04:40.008
+Landing.AI has worked with human inspectors
+
+75
+00:04:40.008 --> 00:04:45.005
+to label each type of defect as problematic or not,
+
+76
+00:04:45.005 --> 00:04:49.009
+paying particular attention to accuracy and consistency
+
+77
+00:04:49.009 --> 00:04:53.001
+across different inspectors.
+
+78
+00:04:53.001 --> 00:04:57.002
+Once trained, the machine learning model has proved
+
+79
+00:04:57.002 --> 00:05:01.003
+to be more accurate than the human inspectors.
+
+80
+00:05:01.003 --> 00:05:06.004
+For a large steel mill, even 1% greater accuracy
+
+81
+00:05:06.004 --> 00:05:11.007
+pays off very quickly for the investment in AI.
+
+82
+00:05:11.007 --> 00:05:14.008
+Now, analyze all three aspects
+
+83
+00:05:14.008 --> 00:05:18.005
+of your companies internal operations.
+
+84
+00:05:18.005 --> 00:05:22.005
+Designing and building a new factory or service center,
+
+85
+00:05:22.005 --> 00:05:26.001
+day-to-day operations and quality control.
+
+86
+00:05:26.001 --> 00:05:28.009
+How might you apply AI
+
+87
+00:05:28.009 --> 00:05:32.001
+to improve upon what you currently do?
