@@ -1,0 +1,433 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.008
+- I'd like to ask you a question.
+
+2
+00:00:02.008 --> 00:00:06.005
+Have you used AI in the last 24 hours?
+
+3
+00:00:06.005 --> 00:00:08.003
+If your answer is no,
+
+4
+00:00:08.003 --> 00:00:11.006
+let me ask you, if you have used face recognition
+
+5
+00:00:11.006 --> 00:00:13.004
+to unlock your smartphone
+
+6
+00:00:13.004 --> 00:00:17.007
+or interact with autocorrect or voice-to-text features?
+
+7
+00:00:17.007 --> 00:00:22.004
+If so, then you're already a regular AI user.
+
+8
+00:00:22.004 --> 00:00:24.000
+We may not realize it
+
+9
+00:00:24.000 --> 00:00:26.009
+but we are already surrounded by AI.
+
+10
+00:00:26.009 --> 00:00:28.005
+It's in our smartphones,
+
+11
+00:00:28.005 --> 00:00:30.009
+it's in YouTube's recommendation engine,
+
+12
+00:00:30.009 --> 00:00:32.005
+it's in Google Search.
+
+13
+00:00:32.005 --> 00:00:35.000
+It's in many of the driver assist features
+
+14
+00:00:35.000 --> 00:00:36.005
+in Tesla cars.
+
+15
+00:00:36.005 --> 00:00:39.005
+It's in many hospitals where AI is starting
+
+16
+00:00:39.005 --> 00:00:43.006
+to help radiologists diagnose MRI images.
+
+17
+00:00:43.006 --> 00:00:45.005
+It's in our policing systems
+
+18
+00:00:45.005 --> 00:00:48.009
+where facial recognition is used increasingly
+
+19
+00:00:48.009 --> 00:00:51.005
+to identify suspects.
+
+20
+00:00:51.005 --> 00:00:56.003
+So what exactly is artificial intelligence?
+
+21
+00:00:56.003 --> 00:00:58.007
+The key to answering this question lies
+
+22
+00:00:58.007 --> 00:01:02.007
+in first defining the term natural intelligence.
+
+23
+00:01:02.007 --> 00:01:06.006
+That is intelligence as exhibited by humans
+
+24
+00:01:06.006 --> 00:01:08.009
+and other artificial.
+
+25
+00:01:08.009 --> 00:01:12.003
+According to the American Psychological Association,
+
+26
+00:01:12.003 --> 00:01:15.003
+intelligence refers to the ability
+
+27
+00:01:15.003 --> 00:01:18.004
+to understand complex ideas,
+
+28
+00:01:18.004 --> 00:01:21.006
+to adapt effectively to the environment,
+
+29
+00:01:21.006 --> 00:01:23.009
+to learn from experience
+
+30
+00:01:23.009 --> 00:01:28.005
+and to engage in various forms of reasoning.
+
+31
+00:01:28.005 --> 00:01:31.007
+Using this definition as a starting point,
+
+32
+00:01:31.007 --> 00:01:35.003
+we can define AI as a computer system
+
+33
+00:01:35.003 --> 00:01:37.006
+that exhibits these traits
+
+34
+00:01:37.006 --> 00:01:40.001
+to at least some degree.
+
+35
+00:01:40.001 --> 00:01:41.005
+By this definition,
+
+36
+00:01:41.005 --> 00:01:44.003
+it's easy to conclude that a calculator
+
+37
+00:01:44.003 --> 00:01:49.006
+would not qualify as an example of artificial intelligence.
+
+38
+00:01:49.006 --> 00:01:52.002
+While it can do complex calculations,
+
+39
+00:01:52.002 --> 00:01:55.003
+it does not adapt to the environment
+
+40
+00:01:55.003 --> 00:01:59.009
+and it certainly does not learn from experience.
+
+41
+00:01:59.009 --> 00:02:03.007
+That said, not everybody in the AI community
+
+42
+00:02:03.007 --> 00:02:07.009
+dismisses the calculator as not being an example
+
+43
+00:02:07.009 --> 00:02:11.004
+of very rudimentary AI.
+
+44
+00:02:11.004 --> 00:02:13.002
+Nearly 400 years back
+
+45
+00:02:13.002 --> 00:02:16.002
+when the French mathematician Blaise Pascal
+
+46
+00:02:16.002 --> 00:02:19.006
+invented the first mechanical calculator,
+
+47
+00:02:19.006 --> 00:02:23.007
+many a journalist ascribed human-like intelligence
+
+48
+00:02:23.007 --> 00:02:25.002
+to this simple machine.
+
+49
+00:02:25.002 --> 00:02:29.000
+After all, what differentiated humans from animals
+
+50
+00:02:29.000 --> 00:02:33.006
+was that humans could calculate, animals couldn't.
+
+51
+00:02:33.006 --> 00:02:36.005
+So if a machine can calculate,
+
+52
+00:02:36.005 --> 00:02:40.008
+it must be called intelligent.
+
+53
+00:02:40.008 --> 00:02:43.006
+Looking back, if we now conclude
+
+54
+00:02:43.006 --> 00:02:48.004
+that no, a calculator is certainly not intelligent,
+
+55
+00:02:48.004 --> 00:02:51.001
+it's worth noting that we humans
+
+56
+00:02:51.001 --> 00:02:53.008
+have long suffered from hubris.
+
+57
+00:02:53.008 --> 00:02:58.005
+Once a machine starts doing cognitive tasks as well
+
+58
+00:02:58.005 --> 00:03:00.000
+or better than humans,
+
+59
+00:03:00.000 --> 00:03:02.003
+we have a tendency to denigrate it
+
+60
+00:03:02.003 --> 00:03:05.002
+as merely calculative ability
+
+61
+00:03:05.002 --> 00:03:09.001
+not worthy of being called intelligence.
+
+62
+00:03:09.001 --> 00:03:13.006
+Even today, a small minority of AI scientists
+
+63
+00:03:13.006 --> 00:03:15.008
+dismiss facial recognition,
+
+64
+00:03:15.008 --> 00:03:18.000
+natural language understanding,
+
+65
+00:03:18.000 --> 00:03:22.003
+and driver assist features as not really true AI.
+
+66
+00:03:22.003 --> 00:03:25.003
+To me, such values reflect,
+
+67
+00:03:25.003 --> 00:03:28.000
+mold the hubris of these scientists,
+
+68
+00:03:28.000 --> 00:03:32.003
+then how we should define AI.
+
+69
+00:03:32.003 --> 00:03:34.008
+As may be obvious by now,
+
+70
+00:03:34.008 --> 00:03:39.002
+AI is not a binary black-or-white concept.
+
+71
+00:03:39.002 --> 00:03:43.002
+That is a computer system is either AI or not AI.
+
+72
+00:03:43.002 --> 00:03:46.004
+Rather, like human IQ,
+
+73
+00:03:46.004 --> 00:03:48.005
+computer systems also vary
+
+74
+00:03:48.005 --> 00:03:51.007
+in their degree of intelligence.
+
+75
+00:03:51.007 --> 00:03:53.006
+Merely 15 years back,
+
+76
+00:03:53.006 --> 00:03:56.004
+the accuracy of image recognition systems
+
+77
+00:03:56.004 --> 00:04:01.003
+to classify photos that did or did not include the image
+
+78
+00:04:01.003 --> 00:04:04.002
+of a cat hovered around 50%.
+
+79
+00:04:04.002 --> 00:04:06.008
+No better than tossing a coin.
+
+80
+00:04:06.008 --> 00:04:09.008
+Today it's in the high 90s.
+
+81
+00:04:09.008 --> 00:04:12.006
+Similarly, almost by the day,
+
+82
+00:04:12.006 --> 00:04:15.002
+AI systems are getting smarter
+
+83
+00:04:15.002 --> 00:04:17.007
+at interpreting MRI scans,
+
+84
+00:04:17.007 --> 00:04:20.005
+understanding and generating speech
+
+85
+00:04:20.005 --> 00:04:23.005
+and autonomous navigation.
+
+86
+00:04:23.005 --> 00:04:26.000
+Perhaps in 10 years' time,
+
+87
+00:04:26.000 --> 00:04:28.005
+we would look back and wonder
+
+88
+00:04:28.005 --> 00:04:32.005
+why we ever called present-era systems as AI,
+
+89
+00:04:32.005 --> 00:04:37.008
+similar to how we view calculators today.
+
+90
+00:04:37.008 --> 00:04:43.001
+Present-day AI systems are extremely domain specific.
+
+91
+00:04:43.001 --> 00:04:46.000
+An AI that is good at facial recognition
+
+92
+00:04:46.000 --> 00:04:50.005
+is useless at understanding speech and vice versa.
+
+93
+00:04:50.005 --> 00:04:54.000
+Domain specificity also implies
+
+94
+00:04:54.000 --> 00:04:57.008
+that some types of AI are already far smarter
+
+95
+00:04:57.008 --> 00:04:59.006
+than humans could ever be.
+
+96
+00:04:59.006 --> 00:05:04.006
+For example, playing chess or the Chinese game of Go.
+
+97
+00:05:04.006 --> 00:05:08.000
+On the other hand, in most other domains,
+
+98
+00:05:08.000 --> 00:05:13.009
+humans remain much more intelligent than computer systems.
+
+99
+00:05:13.009 --> 00:05:16.005
+The biggest difference currently
+
+100
+00:05:16.005 --> 00:05:19.005
+between human and artificial intelligence
+
+101
+00:05:19.005 --> 00:05:23.001
+is that human intelligence is multifaceted.
+
+102
+00:05:23.001 --> 00:05:27.002
+The same brain can read, write, speak,
+
+103
+00:05:27.002 --> 00:05:29.002
+calculate, interpret emotions
+
+104
+00:05:29.002 --> 00:05:34.002
+and do 1,000 other cognitive tasks effortlessly.
+
+105
+00:05:34.002 --> 00:05:36.006
+Even the best AI systems today
+
+106
+00:05:36.006 --> 00:05:41.003
+reflect narrow, artificial intelligence.
+
+107
+00:05:41.003 --> 00:05:47.000
+Now, think about the many aspects of your work context
+
+108
+00:05:47.000 --> 00:05:51.009
+that are already or could soon be powered by AI.
